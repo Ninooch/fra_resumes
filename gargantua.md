@@ -8,9 +8,8 @@ Grandgousier      | Père de Gargantua |
 Gargamelle        | Fille du roi des papillons. Mère de Gargantua |
 Gargantua         | Fils de Grandgousier et Gargamelle |
 
-[TOC]
-
-## Chapitre 5
+## Table des matières
+[Chapitre 5](#chapitre-5)
 
 
 ## Chapitre 1
