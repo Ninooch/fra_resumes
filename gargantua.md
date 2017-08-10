@@ -6,6 +6,5 @@
 
 
 ## Chapitre 2
-### (début du livre déchiffré par Rabelais : énigme)
 
 * 
