@@ -51,3 +51,8 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 
 ## Chapitre 7
 
+* Description des habits et des parures de Gargantua. Tout est exagéré, autant dans le nombre de tissus nécessaires que dans la valeur des pierres ornant ses habits.
+* Ses couleurs sont le bleu et le blanc.
+
+## Chapitre 8
+
