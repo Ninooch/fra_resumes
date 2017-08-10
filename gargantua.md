@@ -2,10 +2,15 @@
 
 ## Personnages
 
-Nom du personnage | Caractéristiques
-------------------|-----------------
-Grandgousier      | Père de Gargantua
-Gargamelle        | Fille du roi des papillons. Mère de Gargantua
+Nom du personnage | Liens avec les autres personnages |Caractéristiques
+------------------|-----------------------------------|----------------
+Grandgousier      | Père de Gargantua |
+Gargamelle        | Fille du roi des papillons. Mère de Gargantua |
+Gargantua         | Fils de Grandgousier et Gargamelle |
+
+[TOC]
+
+## Chapitre 5
 
 
 ## Chapitre 1
@@ -22,16 +27,28 @@ Gargamelle        | Fille du roi des papillons. Mère de Gargantua
 
 * explication de la grossesse de onze mois de Gargamelle. Les onze mois signifient que Gargantua est destiné à être un être extraordinaire et parfait. 
 * (L'infidélité pendant la grossesse est aussi mentionnée dans ce chapitre.)
-
+ 
 
 ## Chapitre 4
 
 * Grandgousier organise un banquet pour ne pas gaspiller les tripes qui ne se consèrvent pas longtemps. Au cours de ce banquet, il avertit Gargamelle de ne pas se goinffrer mais elle ne l'écoute pas. 
 * Ils échange ensuite des propos sur le vin.
 
+
 ## Chapitre 5
 
 * Gargamelle se sent mal. Une guérisseuse lui donne un astringent, ce qui a pour effet de bloquer toutes ses issues naturelles. Gargantua est alors contraint de remonter jusque dans l'oreille gauche pour naître.
 * Ses premiers mots sont "à boire!"
+* Discussion à propos de la foi (en la naissant de Garg. / en Dieu)
 
-* 
+
+
+## Chapitre 6
+
+* Gargantua doit son nom à cause de la réplique de son père: "Quel grand (gosier) tu as ! ".
+* Il adore boire et le tintement des bouteilles le rend joyeux.
+
+
+
+## Chapitre 7
+
