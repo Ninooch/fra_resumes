@@ -3,10 +3,11 @@
 ## Personnages
 
 Nom du personnage | Liens avec les autres personnages |Caractéristiques
-------------------|-----------------------------------|----------------
-Grandgousier      | Père de Gargantua |
-Gargamelle        | Fille du roi des papillons. Mère de Gargantua |
-Gargantua         | Fils de Grandgousier et Gargamelle |
+------------------|-----------------------------------|---------------
+Grandgousier | Père de Gargantua |
+Gargamelle | Fille du roi des papillons. Mère de Gargantua |
+Gargantua | Fils de Grandgousier et Gargamelle |
+Le seigneur de Painensac | Ami de Grandgousier |
 
 ## Table des matières
 * [Chapitre 1](#chapitre-1)
@@ -38,7 +39,34 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 * [Chapitre 27](#chapitre-27)
 * [Chapitre 28](#chapitre-28)
 * [Chapitre 29](#chapitre-29)
-* [Chapitre 30](#chapitre-0)
+* [Chapitre 30](#chapitre-30)
+* [Chapitre 31](#chapitre-31)
+* [Chapitre 32](#chapitre-32)
+* [Chapitre 33](#chapitre-33)
+* [Chapitre 34](#chapitre-34)
+* [Chapitre 35](#chapitre-35)
+* [Chapitre 36](#chapitre-36)
+* [Chapitre 37](#chapitre-37)
+* [Chapitre 38](#chapitre-38)
+* [Chapitre 39](#chapitre-39)
+* [Chapitre 40](#chapitre-40)
+* [Chapitre 41](#chapitre-41)
+* [Chapitre 42](#chapitre-42)
+* [Chapitre 43](#chapitre-43)
+* [Chapitre 44](#chapitre-44)
+* [Chapitre 45](#chapitre-45)
+* [Chapitre 46](#chapitre-46)
+* [Chapitre 47](#chapitre-47)
+* [Chapitre 48](#chapitre-48)
+* [Chapitre 49](#chapitre-49)
+* [Chapitre 50](#chapitre-50)
+* [Chapitre 51](#chapitre-51)
+* [Chapitre 52](#chapitre-52)
+* [Chapitre 53](#chapitre-53)
+* [Chapitre 54](#chapitre-54)
+* [Chapitre 55](#chapitre-55)
+* [Chapitre 56](#chapitre-56)
+
 
 ## Chapitre 1
 
@@ -69,12 +97,10 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 * Discussion à propos de la foi (en la naissant de Garg. / en Dieu)
 
 
-
 ## Chapitre 6
 
 * Gargantua doit son nom à la réplique de son père: "Quel grand (gosier) tu as ! ".
 * Il adore boire et le tintement des bouteilles le rend joyeux.
-
 
 
 ## Chapitre 7
@@ -82,27 +108,35 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 * Description des habits et des parures de Gargantua. Tout est exagéré, autant dans le nombre de tissus nécessaires que dans la valeur des pierres ornant ses habits.
 * Ses couleurs sont le bleu et le blanc.
 
+
 ## Chapitre 8
 
-* Rabelais explique son aversion envers les associations entre objets et idées. ( Le blanc et le bleu étant associés à d'autres valeurs que celles pronées dans l'ouvrage ).
+* Rabelais explique la signification des couleurs de Gargantua
+* Il débat des couleurs / symboles et de leur signification
 
-## Chapitre 9 
+## Chapitre 9
 
 * Rabelais défend les couleurs de Gargantua avec des exemples littéraires et historiques.
+* Il explique son aversion envers les associations traditionnelles entre objets et idées. ( Le blanc et le bleu étant associés à d'autres valeurs que celles pronées dans l'ouvrage ).
+* bleu = ciel & blanc = joie
 
 ## Chapitre 10
 
 * Description de la vie désordonnée et sale qu'il menait étant enfant. 
-* Débuts de sa sexualité.
+* Débuts de sa sexualité. (avec les servantes)
 
 ## Chapitre 11
 
-* Gargantua a une collection de chevaux en bois qu'il a montré à des invités comme étant une véritable écurie. ( C'est une critique de l'éducation des chevaliers )
-* Il est malpoli envers ces invités.
+* Le seigneur de Painensac vient rendre visite à Grandgousier
+* Il demande à Gargantua de lui montrer les écuries
+* Il lui présente sa collection de chevaux en bois comme étant une véritable écurie. 
+*( C'est une critique de l'éducation des chevaliers )
+* Il est malpoli envers les invités.
 
 ## Chapitre 12
 
-* Gargantua entretiens une discussion avec son père à propos du meilleur moyen de s'essuyer.
+* Grandgousier rentre après sa victoire contre les Canariens
+* Gargantua entretient une discussion avec son père à propos du meilleur moyen qu'il a essayé pour s'essuyer.
 * Grandgousier conclut que son fils a une logique infaillible.
 * Le meilleur moyen selon Gargantua est d'utiliser un oison.
 
@@ -110,12 +144,8 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 
 * Grandgousier décide de faire éduquer son fils suite à ses récits.
 * Gargantua suit alors une éducation avec Holoferne, un théologien.
-* Il apprend de nombreux récits par coeur et pendant longtemps.
-* Son précepteur meurt de la Syphilis.
-
-
-
-
+* Il apprend de nombreux récits par coeur et pendant énormément de temps.
+* Son précepteur meurt de la syphilis et est remplacé.
 
 
 ## Chapitre 14 
@@ -125,3 +155,4 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 * Il choisit le professeur d'Eudémon et ce dernier part pour Paris avec Gargantua.
 
 ## Chapitre 15
+* 
