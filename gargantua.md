@@ -3,10 +3,11 @@
 ## Personnages
 
 Nom du personnage | Liens avec les autres personnages |Caractéristiques
-------------------|-----------------------------------|----------------
-Grandgousier      | Père de Gargantua |
-Gargamelle        | Fille du roi des papillons. Mère de Gargantua |
-Gargantua         | Fils de Grandgousier et Gargamelle |
+------------------|-----------------------------------|---------------
+Grandgousier | Père de Gargantua |
+Gargamelle | Fille du roi des papillons. Mère de Gargantua |
+Gargantua | Fils de Grandgousier et Gargamelle |
+Le seigneur de Painensac | Ami de Grandgousier |
 
 ## Table des matières
 * [Chapitre 1](#chapitre-1)
@@ -127,3 +128,31 @@ joie != tristesse && blanc != noir
 
 ## Chapitre 10
 
+* description de l'enfance de Gargantua 
+* Gargantua est soigné par des servantes
+
+
+## Chapitre 11
+
+* Le seigneur de Painensac vient rendre visite à Grandgousier
+* Il demande à Gargantua de lui montrer les écuries
+* Gargantua lui montre les écuries de ses chevaux de bois
+
+
+## Chapitre 12
+
+* Grandgousier rentre après sa victoire contre les Canariens
+* Gargantua explique à Grandgousier toutes les façons de se torcher qu'il a essayées 
+* Gargantua conclut que la meilleure façon de se torcher c'est avec un oison
+
+
+## Chapitre 13
+
+* Grandgousier trouve son fils tellement intelligent qu'il décide d'engager un précepteur pour celui-ci 
+* Gargantua passe énormément de temps à apprendre ces livres par cœur
+* Son précepteur meurt et est remplacé par un autre
+
+
+## Chapitre 14
+
+* 
