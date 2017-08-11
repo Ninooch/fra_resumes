@@ -53,7 +53,7 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 
 ## Chapitre 6
 
-* Gargantua doit son nom à cause de la réplique de son père: "Quel grand (gosier) tu as ! ".
+* Gargantua doit son nom à la réplique de son père: "Quel grand (gosier) tu as ! ".
 * Il adore boire et le tintement des bouteilles le rend joyeux.
 
 
@@ -64,4 +64,10 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 * Ses couleurs sont le bleu et le blanc.
 
 ## Chapitre 8
+
+* Rabelais explique son aversion envers les associations entre objets et idées. ( Le blanc et le bleu étant associés à d'autres valeurs que celles pronées dans l'ouvrage ).
+
+## Chapitre 9 
+
+* Rabelais défend les couleurs de Gargantua avec des exemples littéraires.
 
