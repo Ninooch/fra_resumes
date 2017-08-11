@@ -19,6 +19,52 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 * [Chapitre 8](#chapitre-8)
 * [Chapitre 9](#chapitre-9)
 * [Chapitre 10](#chapitre-10)
+* [Chapitre 11](#chapitre-11)
+* [Chapitre 12](#chapitre-12)
+* [Chapitre 13](#chapitre-13)
+* [Chapitre 14](#chapitre-14)
+* [Chapitre 15](#chapitre-15)
+* [Chapitre 16](#chapitre-16)
+* [Chapitre 17](#chapitre-17)
+* [Chapitre 18](#chapitre-18)
+* [Chapitre 19](#chapitre-19)
+* [Chapitre 20](#chapitre-20)
+* [Chapitre 21](#chapitre-21)
+* [Chapitre 22](#chapitre-22)
+* [Chapitre 23](#chapitre-23)
+* [Chapitre 24](#chapitre-24)
+* [Chapitre 25](#chapitre-25)
+* [Chapitre 26](#chapitre-26)
+* [Chapitre 27](#chapitre-27)
+* [Chapitre 28](#chapitre-28)
+* [Chapitre 29](#chapitre-29)
+* [Chapitre 30](#chapitre-30)
+* [Chapitre 31](#chapitre-31)
+* [Chapitre 32](#chapitre-32)
+* [Chapitre 33](#chapitre-33)
+* [Chapitre 34](#chapitre-34)
+* [Chapitre 35](#chapitre-35)
+* [Chapitre 36](#chapitre-36)
+* [Chapitre 37](#chapitre-37)
+* [Chapitre 38](#chapitre-38)
+* [Chapitre 39](#chapitre-39)
+* [Chapitre 40](#chapitre-40)
+* [Chapitre 41](#chapitre-41)
+* [Chapitre 42](#chapitre-42)
+* [Chapitre 43](#chapitre-43)
+* [Chapitre 44](#chapitre-44)
+* [Chapitre 45](#chapitre-45)
+* [Chapitre 46](#chapitre-46)
+* [Chapitre 47](#chapitre-47)
+* [Chapitre 48](#chapitre-48)
+* [Chapitre 49](#chapitre-49)
+* [Chapitre 50](#chapitre-50)
+* [Chapitre 51](#chapitre-51)
+* [Chapitre 52](#chapitre-52)
+* [Chapitre 53](#chapitre-53)
+* [Chapitre 54](#chapitre-54)
+* [Chapitre 55](#chapitre-55)
+* [Chapitre 56](#chapitre-56)
 
 
 ## Chapitre 1
@@ -50,12 +96,10 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 * Discussion à propos de la foi (en la naissant de Garg. / en Dieu)
 
 
-
 ## Chapitre 6
 
 * Gargantua doit son nom à cause de la réplique de son père: "Quel grand (gosier) tu as ! ".
 * Il adore boire et le tintement des bouteilles le rend joyeux.
-
 
 
 ## Chapitre 7
@@ -63,5 +107,16 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 * Description des habits et des parures de Gargantua. Tout est exagéré, autant dans le nombre de tissus nécessaires que dans la valeur des pierres ornant ses habits.
 * Ses couleurs sont le bleu et le blanc.
 
+
 ## Chapitre 8
 
+* Rabelais explique la signification des couleurs de Gargantua
+* Il débat des couleurs / symboles et de leur signification
+
+
+## Chapitre 9
+
+```javascript
+joie != tristesse && blanc != noir
+=> joie == blanc && tristesse == noir
+```
