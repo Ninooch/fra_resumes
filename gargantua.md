@@ -110,7 +110,6 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 
 ## Chapitre 8
 
-<<<<<<< HEAD
 * Rabelais explique la signification des couleurs de Gargantua
 * Il débat des couleurs / symboles et de leur signification
 
@@ -121,6 +120,10 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 joie != tristesse && blanc != noir
 => joie == blanc && tristesse == noir
 ```
-* Rabelais explique son aversion envers les associations entre objets et idées. ( Le blanc et le bleu étant associés à d'autres valeurs que celles pronées dans l'ouvrage ).
+* Rabelais explique son aversion envers les associations traditionnelles entre objets et idées. ( Le blanc et le bleu étant associés à d'autres valeurs que celles pronées dans l'ouvrage ).
 * Rabelais défend les couleurs de Gargantua avec des exemples littéraires.
+* bleu = ciel & blanc = joie
+
+
+## Chapitre 10
 
