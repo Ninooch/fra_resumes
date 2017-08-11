@@ -19,7 +19,26 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 * [Chapitre 8](#chapitre-8)
 * [Chapitre 9](#chapitre-9)
 * [Chapitre 10](#chapitre-10)
-
+* [Chapitre 11](#chapitre-11)
+* [Chapitre 12](#chapitre-12)
+* [Chapitre 13](#chapitre-13)
+* [Chapitre 14](#chapitre-14)
+* [Chapitre 15](#chapitre-15)
+* [Chapitre 16](#chapitre-16)
+* [Chapitre 17](#chapitre-17)
+* [Chapitre 18](#chapitre-18)
+* [Chapitre 19](#chapitre-19)
+* [Chapitre 20](#chapitre-20)
+* [Chapitre 21](#chapitre-21)
+* [Chapitre 22](#chapitre-22)
+* [Chapitre 23](#chapitre-23)
+* [Chapitre 24](#chapitre-24)
+* [Chapitre 25](#chapitre-25)
+* [Chapitre 26](#chapitre-26)
+* [Chapitre 27](#chapitre-27)
+* [Chapitre 28](#chapitre-28)
+* [Chapitre 29](#chapitre-29)
+* [Chapitre 30](#chapitre-0)
 
 ## Chapitre 1
 
@@ -69,5 +88,40 @@ Gargantua         | Fils de Grandgousier et Gargamelle |
 
 ## Chapitre 9 
 
-* Rabelais défend les couleurs de Gargantua avec des exemples littéraires.
+* Rabelais défend les couleurs de Gargantua avec des exemples littéraires et historiques.
 
+## Chapitre 10
+
+* Description de la vie désordonnée et sale qu'il menait étant enfant. 
+* Débuts de sa sexualité.
+
+## Chapitre 11
+
+* Gargantua a une collection de chevaux en bois qu'il a montré à des invités comme étant une véritable écurie. ( C'est une critique de l'éducation des chevaliers )
+* Il est malpoli envers ces invités.
+
+## Chapitre 12
+
+* Gargantua entretiens une discussion avec son père à propos du meilleur moyen de s'essuyer.
+* Grandgousier conclut que son fils a une logique infaillible.
+* Le meilleur moyen selon Gargantua est d'utiliser un oison.
+
+## Chapitre 13
+
+* Grandgousier décide de faire éduquer son fils suite à ses récits.
+* Gargantua suit alors une éducation avec Holoferne, un théologien.
+* Il apprend de nombreux récits par coeur et pendant longtemps.
+* Son précepteur meurt de la Syphilis.
+
+
+
+
+
+
+## Chapitre 14 
+
+* Grandgousier est déçu de l'éducation qu'a reçu Gargantua. 
+* Suite aux manières exemplaires d'Eudémon, il décide de changer d'éducateur.
+* Il choisit le professeur d'Eudémon et ce dernier part pour Paris avec Gargantua.
+
+## Chapitre 15
