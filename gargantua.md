@@ -114,45 +114,45 @@ Le seigneur de Painensac | Ami de Grandgousier |
 * Rabelais explique la signification des couleurs de Gargantua
 * Il débat des couleurs / symboles et de leur signification
 
-
 ## Chapitre 9
 
-```javascript
-joie != tristesse && blanc != noir
-=> joie == blanc && tristesse == noir
-```
-* Rabelais explique son aversion envers les associations traditionnelles entre objets et idées. ( Le blanc et le bleu étant associés à d'autres valeurs que celles pronées dans l'ouvrage ).
-* Rabelais défend les couleurs de Gargantua avec des exemples littéraires.
+* Rabelais défend les couleurs de Gargantua avec des exemples littéraires et historiques.
+* Il explique son aversion envers les associations traditionnelles entre objets et idées. ( Le blanc et le bleu étant associés à d'autres valeurs que celles pronées dans l'ouvrage ).
 * bleu = ciel & blanc = joie
-
 
 ## Chapitre 10
 
-* description de l'enfance de Gargantua 
-* Gargantua est soigné par des servantes
-
+* Description de la vie désordonnée et sale qu'il menait étant enfant. 
+* Débuts de sa sexualité. (avec les servantes)
 
 ## Chapitre 11
 
 * Le seigneur de Painensac vient rendre visite à Grandgousier
 * Il demande à Gargantua de lui montrer les écuries
-* Gargantua lui montre les écuries de ses chevaux de bois
-
+* Il lui présente sa collection de chevaux en bois comme étant une véritable écurie. 
+*( C'est une critique de l'éducation des chevaliers )
+* Il est malpoli envers les invités.
 
 ## Chapitre 12
 
 * Grandgousier rentre après sa victoire contre les Canariens
-* Gargantua explique à Grandgousier toutes les façons de se torcher qu'il a essayées 
-* Gargantua conclut que la meilleure façon de se torcher c'est avec un oison
-
+* Gargantua entretient une discussion avec son père à propos du meilleur moyen qu'il a essayé pour s'essuyer.
+* Grandgousier conclut que son fils a une logique infaillible.
+* Le meilleur moyen selon Gargantua est d'utiliser un oison.
 
 ## Chapitre 13
 
 * Grandgousier trouve son fils tellement intelligent qu'il décide d'engager un précepteur pour celui-ci 
-* Gargantua passe énormément de temps à apprendre des livres par cœur
-* Son précepteur meurt et est remplacé par un autre
+* Gargantua suit alors une éducation avec Holoferne, un théologien.
+* Il apprend de nombreux récits par coeur et pendant énormément de temps.
+* Son précepteur meurt de la syphilis et est remplacé.
 
 
-## Chapitre 14
+## Chapitre 14 
 
+* Grandgousier est déçu de l'éducation qu'a reçu Gargantua. 
+* Suite aux manières exemplaires d'Eudémon, il décide de changer d'éducateur.
+* Il choisit le professeur d'Eudémon et ce dernier part pour Paris avec Gargantua.
+
+## Chapitre 15
 * 
