@@ -149,7 +149,7 @@ joie != tristesse && blanc != noir
 ## Chapitre 13
 
 * Grandgousier trouve son fils tellement intelligent qu'il décide d'engager un précepteur pour celui-ci 
-* Gargantua passe énormément de temps à apprendre ces livres par cœur
+* Gargantua passe énormément de temps à apprendre des livres par cœur
 * Son précepteur meurt et est remplacé par un autre
 
 
