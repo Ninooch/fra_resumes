@@ -191,9 +191,24 @@ Ponocrates | 3ème précepteur de Gargantua |
 
 ## Chapitre 18
 
-* Janotus fait un discours incohérent avec un latin approximatif.
+* Janotus fait un discours incohérent avec un latin approximatif pour convaincre Gargantua de rendre les cloches
 
 
 ## Chapitre 19
+
+* Tout le monde éclate de rire car le discours de Janotus était ridicule
+* Pour les avoir distraits, Gargantua donne des choses à Janotus
+* Janotus retourne à la Sorbonne et est accusé de ne pas avoir rempli sa mission
+* Il intente un procès à la Sorbonne qui lui en intente un retour
+
+
+## Chapitre 20
+
+* Ponocrates demande à Gargantua de passer ses journées comme il en avait l'habitude pour voir ce qu'il ne fait pas convenablement
+* Journée type de Gargantua
+* Liste de __143 jeux__ pratiqués par Gargantua
+
+
+## Chapitre 21
 
 * 
