@@ -169,3 +169,31 @@ Ponocrates | 3ème précepteur de Gargantua |
 * Gargantua est transporté en cheval de chez lui à Paris
 * Le cheval détruit une forêt infestée d'insectes
 * Gargantua trouve "Beau ce" -> "Beau ça" => Beauce
+
+
+## Chapitre 16
+
+* Gargantua arrive à Paris.
+* Les habitants de Paris l'admirent et le suivent partout
+* [critique de la sottise des habitants de Paris]
+* Gargantua en a marre et monte au sommet d'une église et pisse sur la ville, tuant bcp. de gens
+* C'est depuis ce moment que Paris s'appelle Paris (par ris)
+* Il vole les cloches de l'église pour servir de clochettes à son cheval
+* La Sorbonne envoie un théologien pour convaincre Gargantua de rendre les cloches
+
+
+## Chapitre 17
+
+* Maître Janotus est envoyé pour récupérer les cloches
+* Gargantua ne veut pas qu'il aie la gloire de récuperer la cloche
+* Il fait donc boire Janotus et rend pendant ce temps les cloches aux autorités
+
+
+## Chapitre 18
+
+* Janotus fait un discours incohérent avec un latin approximatif.
+
+
+## Chapitre 19
+
+* 
