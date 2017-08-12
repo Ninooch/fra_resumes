@@ -8,6 +8,12 @@ Grandgousier | Père de Gargantua |
 Gargamelle | Fille du roi des papillons. Mère de Gargantua |
 Gargantua | Fils de Grandgousier et Gargamelle |
 Le seigneur de Painensac | Ami de Grandgousier |
+Holoferne | Premier précepteur de Gargantua | Théologien
+Don Philippe des Marais | Ami de Grandgousier | Conseille à Grandgousier de changer le précepteur de son fils.
+Eudémon | Éduqué par Ponocrates | Jeune page
+Ponocrates | 3ème précepteur de Gargantua | 
+
+
 
 ## Table des matières
 * [Chapitre 1](#chapitre-1)
@@ -150,9 +156,16 @@ Le seigneur de Painensac | Ami de Grandgousier |
 
 ## Chapitre 14 
 
-* Grandgousier est déçu de l'éducation qu'a reçu Gargantua. 
-* Suite aux manières exemplaires d'Eudémon, il décide de changer d'éducateur.
+* Grandgousier se plaint de l'éducation de son fils à Don Philippe.
+* Don Philippe lui répond que c'est la faute à son précepteur.
+* Il lui montre un jeune homme bien éduqué : Eudémon.
+* Suite aux manières exemplaires d'Eudémon, Grandgousier décide de changer d'éducateur.
 * Il choisit le professeur d'Eudémon et ce dernier part pour Paris avec Gargantua.
 
+
 ## Chapitre 15
-* 
+
+* Grandgousier reçoit un cheval gigantesque de Fayolles, quatrième roi de Numidie
+* Gargantua est transporté en cheval de chez lui à Paris
+* Le cheval détruit une forêt infestée d'insectes
+* Gargantua trouve "Beau ce" -> "Beau ça" => Beauce
