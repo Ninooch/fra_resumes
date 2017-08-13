@@ -12,6 +12,7 @@ Holoferne | Premier précepteur de Gargantua | Théologien
 Don Philippe des Marais | Ami de Grandgousier | Conseille à Grandgousier de changer le précepteur de son fils.
 Eudémon | Éduqué par Ponocrates | Jeune page
 Ponocrates | 3ème précepteur de Gargantua | 
+Picrochole |   | Roi de Lerné
 
 
 
@@ -73,6 +74,8 @@ Ponocrates | 3ème précepteur de Gargantua |
 * [Chapitre 55](#chapitre-55)
 * [Chapitre 56](#chapitre-56)
 
+
+# Première partie
 
 ## Chapitre 1
 
@@ -233,6 +236,28 @@ Ponocrates | 3ème précepteur de Gargantua |
 * Une fois par mois, ils prennent un jour de congé pour se distraire tout en s'instruisant
 
 
+# Seconde partie
+
 ## Chapitre 23
 
-*
+* Les gens du pays de Gargantua veulent acheter de la fouace aux fouaciers de Lerné
+* Les fouaciers refusent de leur en vendre et les insultent
+* S'ensuit une bagarre entre Frogier (un berger) et Marquet (un fouacier)
+* La bagarre dégénère et plus de gens s'en mèlent
+* Les fouaciers partent
+
+
+## Chapitre 24
+
+* Lorsqu'ils rentrent chez eux, les fouaciers racontent ce qui leur est arrivé à Picrochole, leur roi
+* Picrochole, fou de colère, fait rassembler toutes les armées de son royaume
+* Ils vont piller le pays de Grandousier
+
+
+## Chapitre 25
+_ferait un super épisode de Rick et Morty xD_
+* Les assaillants arrivent à Seuillé où ils commencent à piller la vigne du monastère
+* Qui pourrait protéger la vigne du monastère ? Quel héros serait assez fort pour leur faire face ?
+* (Super) Frère Jean ! 
+* Il s'équipe de son arme ultime, l'empâleur 2000 #croixAvecUnPetitJésus et détruit ses ennemis par milliers
+* Ouaaaais ! Le vin du monastère est sauvé grâce à super frère Jean :)
