@@ -211,4 +211,28 @@ Ponocrates | 3ème précepteur de Gargantua |
 
 ## Chapitre 21
 
-* 
+* Ponocrates commence son enseignement
+* Gargantue suit une éducation rigoureuse et ordonnée
+* Il acquiert de nombreuses compétences :
+    * la connaissance des textes bibliques
+    * la connaissance des auteurs anciens
+    * les mathématiques (arithmétique, géométrie, musique)
+    * l'équitation
+    * l'art de la guerre
+    * la natation
+    * la navigation
+    * différentes compétences sportives (agilité, lancer, haltères, ...)
+* Gargantua mange désormais raisonnablement
+
+
+## Chapitre 22
+
+* Les jours où il pleut, Gargantua et Ponocrates ont un planning différent
+* Ils vont en ville pour comprendre les techniques de travail des artisans
+* Ils observent également les artistes de rue et les charlatans
+* Une fois par mois, ils prennent un jour de congé pour se distraire tout en s'instruisant
+
+
+## Chapitre 23
+
+*
