@@ -261,3 +261,16 @@ _ferait un super épisode de Rick et Morty xD_
 * (Super) Frère Jean ! 
 * Il s'équipe de son arme ultime, l'empâleur 2000 #croixAvecUnPetitJésus et détruit ses ennemis par milliers
 * Ouaaaais ! Le vin du monastère est sauvé grâce à super frère Jean :)
+
+
+## Chapitre 26
+
+* Picrochole se met à l'abri dans La Roche-Clermault (château)
+* Grandgousier ne comprends pas pourquoi Picrochole, son grand ami de toujours, l'a attaqué
+* Il envoie un émissaire pour demander à Picrochole les raisons de son aggression
+* Il envoie également une lettre à Gargantua
+
+
+## Chapitre 27
+
+*
