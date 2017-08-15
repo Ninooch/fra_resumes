@@ -145,7 +145,7 @@ Picrochole |   | Roi de Lerné
 ## Chapitre 12
 
 * Grandgousier rentre après sa victoire contre les Canariens
-* Gargantua entretient une discussion avec son père à propos du meilleur moyen qu'il a essayé pour s'essuyer.
+* Gargantua entretient une discussion avec son père à propos du meilleur moyen qu'il a essayé pour s'essuyer. (#FreudEsTuLà)
 * Grandgousier conclut que son fils a une logique infaillible.
 * Le meilleur moyen selon Gargantua est d'utiliser un oison.
 
@@ -179,7 +179,7 @@ Picrochole |   | Roi de Lerné
 * Gargantua arrive à Paris.
 * Les habitants de Paris l'admirent et le suivent partout
 * [critique de la sottise des habitants de Paris]
-* Gargantua en a marre et monte au sommet d'une église et pisse sur la ville, tuant bcp. de gens
+* Gargantua en a marre et monte au sommet d'une église et urine sur la ville, tuant bcp. de gens
 * C'est depuis ce moment que Paris s'appelle Paris (par ris)
 * Il vole les cloches de l'église pour servir de clochettes à son cheval
 * La Sorbonne envoie un théologien pour convaincre Gargantua de rendre les cloches
@@ -189,26 +189,27 @@ Picrochole |   | Roi de Lerné
 
 * Maître Janotus est envoyé pour récupérer les cloches
 * Gargantua ne veut pas qu'il aie la gloire de récuperer la cloche
-* Il fait donc boire Janotus et rend pendant ce temps les cloches aux autorités
+* Il fait donc boire Janotus et fait chercher pendant ce temps les autorités pour leur rendre els cloches.
 
 
 ## Chapitre 18
 
-* Janotus fait un discours incohérent avec un latin approximatif pour convaincre Gargantua de rendre les cloches
+* Janotus fait un discours incohérent avec un latin approximatif et des propos religieux déplacés pour convaincre Gargantua de rendre les cloches.
 
 
 ## Chapitre 19
 
 * Tout le monde éclate de rire car le discours de Janotus était ridicule
-* Pour les avoir distraits, Gargantua donne des choses à Janotus
-* Janotus retourne à la Sorbonne et est accusé de ne pas avoir rempli sa mission
-* Il intente un procès à la Sorbonne qui lui en intente un retour
+* Pour les avoir distraits, Gargantua donne des choses à Janotus.
+* Janotus retourne à la Sorbonne, réclamme ce qu'il a déjà reçu de Gargantua et se les voit refuser.
+* Outré, il intente un procès à la Sorbonne qui lui en intente un retour
 
 
 ## Chapitre 20
 
+*  Après avoir rendu les cloches, Gargantua se fait offrir l'aide des citoyens de Paris pour sa jument qui va vivre dans la forêt de Fontainebleau.
 * Ponocrates demande à Gargantua de passer ses journées comme il en avait l'habitude pour voir ce qu'il ne fait pas convenablement
-* Journée type de Gargantua
+* Journée type de Gargantua (sale et désordonnée,plein de mauvaises habitudes telles que manger/boire énormément et n'étudier que bêtement.)
 * Liste de __143 jeux__ pratiqués par Gargantua
 
 
