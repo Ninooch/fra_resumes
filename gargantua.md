@@ -398,4 +398,3 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 44 
 
-
