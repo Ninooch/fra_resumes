@@ -12,12 +12,8 @@ Holoferne | Premier précepteur de Gargantua | Théologien
 Don Philippe des Marais | Ami de Grandgousier | Conseille à Grandgousier de changer le précepteur de son fils.
 Eudémon | Éduqué par Ponocrates | Jeune page
 Ponocrates | 3ème précepteur de Gargantua | 
-<<<<<<< HEAD
 Picrochole |   | Roi de Lerné
 Gallet | Ambassadeur de Grandgousier |
-=======
-Picrochole |   | Roi de Lerné |
->>>>>>> db9f2f249afef613dfb307566e6166245450940d
 
 
 
