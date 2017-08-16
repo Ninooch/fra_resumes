@@ -384,7 +384,18 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 42
 
-*
-*
+* Jean tue les 2 archers qui le gardaient captif et retourne en direction de Gargantua et son équipe.
+* En route, il croise l'armée ennemie qui rebrousse chemin à cause de sa défaite imminente.
+* Il s'arrête pour tuer des fuyants, tant et si bien que son épée se brise en 2.
+* Il récupère une hache, libère les pélèrins capturés et les ramène auprès de Gargantua.
+* Toucquedillon, un gouverneur de Picrochole est retenu prisonnier.
+
+## Chapitre 43
+
+* Gargantua rentre à l'aube chez Grandgousier sans le moine. Grandgousier prépare un grand déjeuner quand soudain Jean arrive. 
+* Grandgousier interroge les pèlerins. Ces derniers suivaient un voyage pour contrer les maladies associées à certains Saints. Grandgousier trouve cela assurément ridicule et les envoie plutôt prendre soin de leur famille et proches tout en s'instruisant. 
+* Il leur donne des provisions, de l'argent et un cheval à chacun.
+
+## Chapitre 44 
 
 
