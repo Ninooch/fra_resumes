@@ -11,7 +11,8 @@ Le seigneur de Painensac | Ami de Grandgousier |
 Holoferne | Premier précepteur de Gargantua | Théologien
 Don Philippe des Marais | Ami de Grandgousier | Conseille à Grandgousier de changer le précepteur de son fils.
 Eudémon | Éduqué par Ponocrates | Jeune page
-Ponocrates | 3ème précepteur de Gargantua | 
+Ponocrates | 3ème précepteur de Gargantua |
+Gymnaste  | Éduqué par Pronocrates, apprend l'équitation à Gargantua | Écuyer
 Picrochole |   | Roi de Lerné |
 
 
@@ -221,7 +222,7 @@ Picrochole |   | Roi de Lerné |
     * la connaissance des textes bibliques
     * la connaissance des auteurs anciens
     * les mathématiques (arithmétique, géométrie, musique)
-    * l'équitation
+    * l'équitation (avec Gymnaste)
     * l'art de la guerre
     * la natation
     * la navigation
@@ -298,5 +299,51 @@ _ferait un super épisode de Rick et Morty xD_
 * Ce dernier prétend qu'il est assez puissant pour que sa guerre ne dure pas plus de temps qu'il ne faut pour que la faim frappe ses troupes. 
 
 ## Chapitre 31 
+
+* Les gouverneurs de Picrocholes établissent un plan démesuré. L'armée se sépart en 2, une partie allant assiéger Grandgousier et l'autre allant conquérir le reste du monde. 
+* Ils ignorent les avertissements d'Echephron (le prudent).
+
+## Chapitre 32 
+
+* Gargantua se met en route avec Pronocrates, Eudémon et Gymnaste pour aller vers son père.
+* Il est un peu peureux car désemparé par la situation. Pronocrates décide d'aller chez un ami, le seigneur de la Vauguyon. 
+* Gymnaste et l'écuyer du seigneur partent pour espionner les alentours. 
+* Gymnaste rencontre Tripet qui le menace. 
+
+## Chapitre 33
+
+* Convaincus que Gymnaste est un diable, de nombreux soldats partent.
+* Gymnaste exécute des figures acrobatiques incroyables sur son cheval pour en effrayer d'avantage.
+* Il tue ceux qui sont restés, ainsi que Tripet.
+
+## Chapitre 34 
+
+* Gymnaste raconte ses exploits à son retour et la troupe part.
+* La jument de Gargantua urine énormément et noie la majorité de la troupe ennemie.
+* En passant, Gargantua saisit l'Arbre de St. Martin pour s'en faire une épée.
+* Gargantua croit que des insectes le piquent alors qu'il se fait attaquer par des cannons. Il détruit le château de ses assaillants et la troupe repart.
+
+## Chapitre 35 
+
+* Gargantua est de retour auprès de son père. Sa mère meurt de joie. ( aucune considération de la part de Rabelais)
+* En se peignant, Gargantua fait tomber les restes des boulets de Vède. Son père croit qu'il a attrapé des poux dans un collège miteux mais Pronocrates le rassure quand à son éducation.
+* Grandgousier décide de fêter leur retour avec un énorme festin.
+
+## Chapitre 36
+
+* 
+*
+
+## Chapitre 37 
+
+* 
+*
+
+## Chapitre 38
+
+*
+*
+
+## Chapitre 39
 
 * 
