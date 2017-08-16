@@ -363,4 +363,28 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 39
 
-* 
+* Gargantua récite un psaume pour s'endormir suite aux conseils de frère Jean.
+* Le landemain, la troupe se réveille tôt. Jean propose de boire contrairement que de tousser.
+* Ils s'arment et partent avec 25 soldats de Grandgousier.
+
+## Chapitre 40 
+
+* Frère Jean encourage la troupe par des propos religieux. Ils vont en direction de la Saulaie.
+* Il coince son heaume dans une branche d'arbre et reste pendu alors que on conval continue d'avancer.
+* Après quelques plaisanteries, Gymnaste va le sauver. Jean reprends les rennes de son cheval qu'Eudèmon avait arrêté dans sa course. 
+
+## Chapitre 41
+
+*  Picrochola a appris la mort de Tripet, ce qui le fâcha encore plus.
+* Il envoie une armée énorme en reconnaissance, parée d'eau bénite et d'étoles pour contrer les diables.
+* Gargantua l'apperçoit alors et demande s'il faut attaquer, ce à quoi frère Jean répond un grand "oui que diable".
+* L'armée commence à fuire par peur des diables sauf Tyravant ( le conducteur de cette armée) qui s'acharne en vain sur Jean pour ensuite se faire assommer.
+* Gargantua a un discours noble sur la modération des coups lors d'une bataille. Pendant ce temps Jean tue sans pitié jusqu'au moment où il se fait remarquer puis capturer.
+* Gargantua décide alors d'attendre calmement leurs ennemis.
+
+## Chapitre 42
+
+*
+*
+
+
