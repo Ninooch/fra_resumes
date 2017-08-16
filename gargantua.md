@@ -12,8 +12,12 @@ Holoferne | Premier précepteur de Gargantua | Théologien
 Don Philippe des Marais | Ami de Grandgousier | Conseille à Grandgousier de changer le précepteur de son fils.
 Eudémon | Éduqué par Ponocrates | Jeune page
 Ponocrates | 3ème précepteur de Gargantua | 
+<<<<<<< HEAD
 Picrochole |   | Roi de Lerné
 Gallet | Ambassadeur de Grandgousier |
+=======
+Picrochole |   | Roi de Lerné |
+>>>>>>> db9f2f249afef613dfb307566e6166245450940d
 
 
 
@@ -242,7 +246,7 @@ Gallet | Ambassadeur de Grandgousier |
 
 ## Chapitre 23
 
-* Les gens du pays de Gargantua veulent acheter de la fouace aux fouaciers de Lerné
+* Les gens du pays de Gargantua veulent acheter de la fouace aux fouaciers de Lerné (fouace = sorte de pain brioche)
 * Les fouaciers refusent de leur en vendre et les insultent
 * S'ensuit une bagarre entre Frogier (un berger) et Marquet (un fouacier)
 * La bagarre dégénère et plus de gens s'en mèlent
@@ -251,7 +255,7 @@ Gallet | Ambassadeur de Grandgousier |
 
 ## Chapitre 24
 
-* Lorsqu'ils rentrent chez eux, les fouaciers racontent ce qui leur est arrivé à Picrochole, leur roi
+* Lorsqu'ils rentrent chez eux (à Lerné) , les fouaciers racontent ce qui leur est arrivé à Picrochole, leur roi
 * Picrochole, fou de colère, fait rassembler toutes les armées de son royaume
 * Ils vont piller le pays de Grandousier
 
@@ -276,30 +280,33 @@ _ferait un super épisode de Rick et Morty xD_
 ## Chapitre 27
 
 * Contenu de la lettre de Grandgousier à Gargantua
-* Grandgousier demande à Gargantua de venir sa famille et sa terre natale
+* Grandgousier demande à Gargantua de venir aider sa famille et sa terre natale
 
 
-## Chapitre 28
+## Chapitre 28 
 
-* Grandgousier demande à son ambassadeur, Gallet, d'aller parler à Picrochole
+* Ulrich Gallet est envoyé pour parler à Picrochole.
+* Il passe la nuit chez un meunier avant de parler à l'ambassadeur du roi.
 
 
 ## Chapitre 29
 
-* L'ambassadeur énonce son discours à Picrochole
-* Il évoque les alliances et amitiés passées de Picrochole et Gargantua
+* Gallet tient un discours bon et juste, mettant des accents sur l'alliance que Picrochole a rompue et sur l'attachement qu'a Grandgousier pour son peuple.
 * Il finit par dire que Picrochole doit quitter le pays avec son armée, laisser trois ducs, un prince et un vicomte en otage et payer **one million dollar** (mille besants d'or)
 ![One million dollars](http://i.qkme.me/35ze3t.jpg)
 
 
 ## Chapitre 30
 
-* L'ambassadeur retourne auptrès de Grandgousier et lui dit que Picrochole est fâché à cause de fouaces volées
-* Grandgousier fait envoyer 5 charrettes de fouace et de l'argent à Picrochole pour réparer les torts causés par ses gens et pour <q>acheter</q> la paix
-* Picrochole s'en contre-fiche mais prends quand même la fouace
+* Picrochole répond en le provoquant d'avantage. Il évoque le problème de la fouace.
+* Gallet rentre et expose la situation à Grandgousier.
+* Grandgousier apprend l'histoire des fouaces et souhaite dédommager ce que ce conflit a créé.
+* Il envoie 5 charrettes de fouaces et de l'argent pour Marquet.
+* Picrochole accepte les fouaces et l'argent mais ne souhaite en rien la paix. 
+* Ce dernier prétend qu'il est assez puissant pour que sa guerre ne dure pas plus de temps qu'il ne faut pour que la faim frappe ses troupes. 
 ![Thug life](https://d13yacurqjgara.cloudfront.net/users/585991/screenshots/2778558/thuglife.jpg)
 
 
 ## Chapitre 31
-
-* 
+ 
+*
