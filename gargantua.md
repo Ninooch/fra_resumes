@@ -13,6 +13,7 @@ Don Philippe des Marais | Ami de Grandgousier | Conseille à Grandgousier de cha
 Eudémon | Éduqué par Ponocrates | Jeune page
 Ponocrates | 3ème précepteur de Gargantua | 
 Picrochole |   | Roi de Lerné
+Gallet | Ambassadeur de Grandgousier |
 
 
 
@@ -274,4 +275,31 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 27
 
-*
+* Contenu de la lettre de Grandgousier à Gargantua
+* Grandgousier demande à Gargantua de venir sa famille et sa terre natale
+
+
+## Chapitre 28
+
+* Grandgousier demande à son ambassadeur, Gallet, d'aller parler à Picrochole
+
+
+## Chapitre 29
+
+* L'ambassadeur énonce son discours à Picrochole
+* Il évoque les alliances et amitiés passées de Picrochole et Gargantua
+* Il finit par dire que Picrochole doit quitter le pays avec son armée, laisser trois ducs, un prince et un vicomte en otage et payer **one million dollar** (mille besants d'or)
+![One million dollars](http://i.qkme.me/35ze3t.jpg)
+
+
+## Chapitre 30
+
+* L'ambassadeur retourne auptrès de Grandgousier et lui dit que Picrochole est fâché à cause de fouaces volées
+* Grandgousier fait envoyer 5 charrettes de fouace et de l'argent à Picrochole pour réparer les torts causés par ses gens et pour <q>acheter</q> la paix
+* Picrochole s'en contre-fiche mais prends quand même la fouace
+![Thug life](https://d13yacurqjgara.cloudfront.net/users/585991/screenshots/2778558/thuglife.jpg)
+
+
+## Chapitre 31
+
+* 
