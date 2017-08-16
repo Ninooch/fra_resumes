@@ -14,7 +14,7 @@ Eudémon | Éduqué par Ponocrates | Jeune page
 Ponocrates | 3ème précepteur de Gargantua |
 Gymnaste  | Éduqué par Pronocrates, apprend l'équitation à Gargantua | Écuyer
 Picrochole |   | Roi de Lerné |
-
+Gallet | Ambassadeur de Grandgousier |
 
 
 ## Table des matières
@@ -275,21 +275,24 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 27
 
-* Lettre que Grandgousier a écrite à Gargantua pour le prier de venir défendre ses terres. 
-* Grandgousier veut éviter à tout prix la violence.
-* Il utilise de nombreux exempls religieux de conduite pacifiste.
+* Contenu de la lettre de Grandgousier à Gargantua
+* Grandgousier demande à Gargantua de venir aider sa famille et sa terre natale
+
 
 ## Chapitre 28 
 
 * Ulrich Gallet est envoyé pour parler à Picrochole.
 * Il passe la nuit chez un meunier avant de parler à l'ambassadeur du roi.
 
-## Chapitre 29 
+
+## Chapitre 29
 
 * Gallet tient un discours bon et juste, mettant des accents sur l'alliance que Picrochole a rompue et sur l'attachement qu'a Grandgousier pour son peuple.
-* Il ordonne à Picrochole de cesser toute activité malveillante envers le peuple de G. et de partir. 
+* Il finit par dire que Picrochole doit quitter le pays avec son armée, laisser trois ducs, un prince et un vicomte en otage et payer **one million dollar** (mille besants d'or)
+![One million dollars](http://i.qkme.me/35ze3t.jpg)
 
-## Chapitre 30 
+
+## Chapitre 30
 
 * Picrochole répond en le provoquant d'avantage. Il évoque le problème de la fouace.
 * Gallet rentre et expose la situation à Grandgousier.
@@ -297,8 +300,10 @@ _ferait un super épisode de Rick et Morty xD_
 * Il envoie 5 charrettes de fouaces et de l'argent pour Marquet.
 * Picrochole accepte les fouaces et l'argent mais ne souhaite en rien la paix. 
 * Ce dernier prétend qu'il est assez puissant pour que sa guerre ne dure pas plus de temps qu'il ne faut pour que la faim frappe ses troupes. 
+![Thug life](https://d13yacurqjgara.cloudfront.net/users/585991/screenshots/2778558/thuglife.jpg)
 
-## Chapitre 31 
+
+## Chapitre 31
 
 * Les gouverneurs de Picrocholes établissent un plan démesuré. L'armée se sépart en 2, une partie allant assiéger Grandgousier et l'autre allant conquérir le reste du monde. 
 * Ils ignorent les avertissements d'Echephron (le prudent).
