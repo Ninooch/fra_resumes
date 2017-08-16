@@ -1,4 +1,5 @@
 # Résumé de Gargantua
+![Gargantua, édition Pocket](https://www.pocket.fr/wp-content/uploads/Catalogue/9782266199827.jpg)
 
 ## Personnages
 
@@ -15,6 +16,7 @@ Ponocrates | 3ème précepteur de Gargantua |
 Gymnaste  | Éduqué par Pronocrates, apprend l'équitation à Gargantua | Écuyer
 Picrochole |   | Roi de Lerné |
 Gallet | Ambassadeur de Grandgousier |
+Tripet | Capitaine de l'armée de Picrochole |
 
 
 ## Table des matières
@@ -306,21 +308,24 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 31
 
-* Les gouverneurs de Picrocholes établissent un plan démesuré. L'armée se sépart en 2, une partie allant assiéger Grandgousier et l'autre allant conquérir le reste du monde. 
+* Les gouverneurs de Picrocholes établissent un plan démesuré. L'armée se sépart en 2, une partie allant assiéger Grandgousier et l'autre allant conquérir le **reste du monde**. 
 * Ils ignorent les avertissements d'Echephron (le prudent).
+
 
 ## Chapitre 32 
 
 * Gargantua se met en route avec Pronocrates, Eudémon et Gymnaste pour aller vers son père.
-* Il est un peu peureux car désemparé par la situation. Pronocrates décide d'aller chez un ami, le seigneur de la Vauguyon. 
+* Il est un peu peureux car désemparé par la situation. Ponocrates décide d'aller chez un ami, le seigneur de la Vauguyon. 
 * Gymnaste et l'écuyer du seigneur partent pour espionner les alentours. 
 * Gymnaste rencontre Tripet qui le menace. 
+
 
 ## Chapitre 33
 
 * Convaincus que Gymnaste est un diable, de nombreux soldats partent.
 * Gymnaste exécute des figures acrobatiques incroyables sur son cheval pour en effrayer d'avantage.
 * Il tue ceux qui sont restés, ainsi que Tripet.
+
 
 ## Chapitre 34 
 
@@ -329,11 +334,13 @@ _ferait un super épisode de Rick et Morty xD_
 * En passant, Gargantua saisit l'Arbre de St. Martin pour s'en faire une épée.
 * Gargantua croit que des insectes le piquent alors qu'il se fait attaquer par des cannons. Il détruit le château de ses assaillants et la troupe repart.
 
+
 ## Chapitre 35 
 
 * Gargantua est de retour auprès de son père. Sa mère meurt de joie. ( aucune considération de la part de Rabelais)
 * En se peignant, Gargantua fait tomber les restes des boulets de Vède. Son père croit qu'il a attrapé des poux dans un collège miteux mais Pronocrates le rassure quand à son éducation.
 * Grandgousier décide de fêter leur retour avec un énorme festin.
+
 
 ## Chapitre 36
 
@@ -341,11 +348,13 @@ _ferait un super épisode de Rick et Morty xD_
 * Gargantua mange sa salade en avalant les pélerins qui se sauvent tant bien que mal de sa bouche.
 * Ils doivent encore passer un flot d'urine.
 
+
 ## Chapitre 37 
 
 * Grandgousier raconte l'origine de la guerre et les exploits de frère Jean à son fils, attablé.
 * Gargantua souhaite le voir alors, on fait ramener frère Jean.
 * Ce dernier insiste pour garder son habit de moine, car c'est lui qui lui donne son esprit de bon buveur. Il raconte une blague paillarde et sors d'autres faits que l'on n'imaginerait point sortir de la bouche d'un moine.
+
 
 ## Chapitre 38
 
