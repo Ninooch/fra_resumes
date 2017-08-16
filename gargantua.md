@@ -290,6 +290,7 @@ _ferait un super épisode de Rick et Morty xD_
 * Gallet tient un discours bon et juste, mettant des accents sur l'alliance que Picrochole a rompue et sur l'attachement qu'a Grandgousier pour son peuple.
 * Il finit par dire que Picrochole doit quitter le pays avec son armée, laisser trois ducs, un prince et un vicomte en otage et payer **one million dollar** (mille besants d'or)
 ![One million dollars](http://i.qkme.me/35ze3t.jpg)
+ ( ![One million](http://www.fatales.tn/produit/images/One_Million_g.gif) ) //désolée Niels je n'ai pas pu m'en empêcher XD
 
 
 ## Chapitre 30
@@ -336,18 +337,20 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 36
 
-* 
-*
+* 6 pélerins se sont réfugiés sous d'énormes laitues que Gargantua prépare en salade. Ils n'osent rien dire de peur de se faire tuer.
+* Gargantua mange sa salade en avalant les pélerins qui se sauvent tant bien que mal de sa bouche.
+* Ils doivent encore passer un flot d'urine.
 
 ## Chapitre 37 
 
-* 
-*
+* Grandgousier raconte l'origine de la guerre et les exploits de frère Jean à son fils, attablé.
+* Gargantua souhaite le voir alors, on fait ramener frère Jean.
+* Ce dernier insiste pour garder son habit de moine, car c'est lui qui lui donne son esprit de bon buveur. Il raconte une blague paillarde et sors d'autres faits que l'on n'imaginerait point sortir de la bouche d'un moine.
 
 ## Chapitre 38
 
-*
-*
+* Frère Jean explique que les moines portent la misère des autres sur leur épaules, c'est pourquoi ils sont rejetés. 
+* Gargantua s'interroge sur le nez visiblement grand du moine. Son père lui dit que c'était la volonté de Dieu. Pronocrates plaisante en disant qu'il était le premier à la foire au nez. Mais Jean explique via une métaphore plus ou moins subtile que c'est grâce à la poitrine moelleuse de sa nourrice. (#ziziii)
 
 ## Chapitre 39
 
