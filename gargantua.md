@@ -12,7 +12,7 @@ Holoferne | Premier précepteur de Gargantua | Théologien
 Don Philippe des Marais | Ami de Grandgousier | Conseille à Grandgousier de changer le précepteur de son fils.
 Eudémon | Éduqué par Ponocrates | Jeune page
 Ponocrates | 3ème précepteur de Gargantua | 
-Picrochole |   | Roi de Lerné
+Picrochole |   | Roi de Lerné |
 
 
 
@@ -241,7 +241,7 @@ Picrochole |   | Roi de Lerné
 
 ## Chapitre 23
 
-* Les gens du pays de Gargantua veulent acheter de la fouace aux fouaciers de Lerné
+* Les gens du pays de Gargantua veulent acheter de la fouace aux fouaciers de Lerné (fouace = sorte de pain brioche)
 * Les fouaciers refusent de leur en vendre et les insultent
 * S'ensuit une bagarre entre Frogier (un berger) et Marquet (un fouacier)
 * La bagarre dégénère et plus de gens s'en mèlent
@@ -250,7 +250,7 @@ Picrochole |   | Roi de Lerné
 
 ## Chapitre 24
 
-* Lorsqu'ils rentrent chez eux, les fouaciers racontent ce qui leur est arrivé à Picrochole, leur roi
+* Lorsqu'ils rentrent chez eux (à Lerné) , les fouaciers racontent ce qui leur est arrivé à Picrochole, leur roi
 * Picrochole, fou de colère, fait rassembler toutes les armées de son royaume
 * Ils vont piller le pays de Grandousier
 
@@ -274,4 +274,29 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 27
 
-*
+* Lettre que Grandgousier a écrite à Gargantua pour le prier de venir défendre ses terres. 
+* Grandgousier veut éviter à tout prix la violence.
+* Il utilise de nombreux exempls religieux de conduite pacifiste.
+
+## Chapitre 28 
+
+* Ulrich Gallet est envoyé pour parler à Picrochole.
+* Il passe la nuit chez un meunier avant de parler à l'ambassadeur du roi.
+
+## Chapitre 29 
+
+* Gallet tient un discours bon et juste, mettant des accents sur l'alliance que Picrochole a rompue et sur l'attachement qu'a Grandgousier pour son peuple.
+* Il ordonne à Picrochole de cesser toute activité malveillante envers le peuple de G. et de partir. 
+
+## Chapitre 30 
+
+* Picrochole répond en le provoquant d'avantage. Il évoque le problème de la fouace.
+* Gallet rentre et expose la situation à Grandgousier.
+* Grandgousier apprend l'histoire des fouaces et souhaite dédommager ce que ce conflit a créé.
+* Il envoie 5 charrettes de fouaces et de l'argent pour Marquet.
+* Picrochole accepte les fouaces et l'argent mais ne souhaite en rien la paix. 
+* Ce dernier prétend qu'il est assez puissant pour que sa guerre ne dure pas plus de temps qu'il ne faut pour que la faim frappe ses troupes. 
+
+## Chapitre 31 
+
+* 
