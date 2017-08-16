@@ -1,4 +1,5 @@
 # Résumé de Gargantua
+![Gargantua, édition Pocket](https://www.pocket.fr/wp-content/uploads/Catalogue/9782266199827.jpg)
 
 ## Personnages
 
