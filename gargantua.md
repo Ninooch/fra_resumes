@@ -398,3 +398,27 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 44 
 
+* Grandgousier demande à Toucquedillon ce qui pousse Picrochole a agir ainsi.
+* Il trouve cela irrationnel et souhaite que T. reparte chez son roi pour le conseiller justement.
+* Frère Jean ne demande rien pour rançon et Toucquedillon qui a reçu un cheval, de l'argent et une épée se fait escorter par Gymnaste et une petite armée. 
+* Frère Jean rend l'argent que Grandgousier lui avait offerte. Ce dernier dit qu'une fois la guerre terminée, il récompenserait tous ceux qui lui auront bien servi.
+
+## Chapitre 45
+
+* Énormément de villages sont prêts à prêter main forte à Grandgousier, selon des anciennes alliances. Mais Grandgousier souhaite déranger le moins possible alors ne prend le services que de quelques villages.
+* Toucquedillon à son retour parle avec Picrochole. Hastiveau, un autre gouverneur le traîte de traître, ce à quoi Toucquedillon répondit par un coup d'épée dans le buste. 
+* Furieux, Picrochole fait tuer Toucquedillon et jette simplement sa dépouille alors qu'il inhume celle de Hastiveau. 
+* L'armée de Picrochole commence à douter de l'efficacité du roi qui n'en fait qu'à sa tête.
+
+## Chapitre 46 
+
+* Au château de la Roche-Clermault, Gargantua décide sur les conseils de Gymnaste de séparer son armée. Frère Jean en dirige une partie plus loin.
+* Gargantua est informé que la côte gauche est vide. Il déplace son armée discrètement pour bloquer l'issue à Picrochole.
+* Il le rencontre en chemin et se battent. De son côté Frère Jean assaillit un côté du château pour venir ensuite en aide à Gargantua.
+* En entendant le retour de Frère Jean, Picrochole comprend que tout est perdu pour lui et prend la fuite.
+
+## Chapitre 47
+
+* Picrochole dans sa fuite, tue sa monture dans un excès de colère. Il souhaite dérober un vieil âne à des meuniers qui le dépouillent de ses vêtements.
+* Il rencontre une sorcière qui lui dit que son royaume lui sera restitué quand les coquecigrues viendront. 
+* Gargantua pendant ce temps, rassemble ses troupes et 
