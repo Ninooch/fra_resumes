@@ -439,5 +439,21 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 50 
 
-*
+* Frère Jean refuse les offres de Gargantua et demande de construire un abbaye selon son gré.
+* Gargantua lui offre Thélème pour la construire.
+* Frère Jean décide que les règles qui régiront son abbaye seront contraires à celles habituelles. Ainsi, il n'y aura pas de mur, femmes comme hommes seront les bienvenus, ils pourront rentrer et sortir du couvent quand bon leur semble et les 3 voeux ne seront pas imposés.
+
+## Chapitre 51 
+ 
+* L'abbaye est construite avec beaucoup de énormément de ressources précieuses. 
+* Le bâtiment est de forme hexagonale avec une tour de 6 étages à chaque angle. Chacune de ces tours porte un nom.
+* Le bâtiment est magnifiquement orné et possède une grande bibliothèque remplies de livres en différentes langues. 
+
+## Chapitre 52 
+
+* Poème gravé sur les portes de l'abbaye. Il dit que tout ceux au coeur vil et malsain n'y seront pas acceuillis. Il dit aussi que les personnes simples et gentilles sont les bienvenues. 
+* C'est une séparation entre le mal et le bien moral pur ( cf. note de bas de page 406).
+
+## Chapitre 53
+
 *
