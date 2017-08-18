@@ -441,7 +441,7 @@ _ferait un super épisode de Rick et Morty xD_
 
 * Frère Jean refuse les offres de Gargantua et demande de construire un abbaye selon son gré.
 * Gargantua lui offre Thélème pour la construire.
-* Frère Jean décide que les règles qui régiront son abbaye seront contraires à celles habituelles. Ainsi, il n'y aura pas de mur, femmes comme hommes seront les bienvenus, ils pourront rentrer et sortir du couvent quand bon leur semble et les 3 voeux ne seront pas imposés.
+* Frère Jean décide que les règles qui régiront son abbaye seront contraires à celles habituelles. Ainsi, il n'y aura pas de mur, pas d'horloges et d'appareils de mesure du temps, femmes comme hommes seront les bienvenus, ils pourront rentrer et sortir du couvent quand bon leur semble et les 3 voeux ne seront pas imposés.
 
 ## Chapitre 51 
  
@@ -466,4 +466,11 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 55
 
-*
+* La vie des résidents leur est libre. Ils fixent leur propres horaires et activités.
+* De ce fait, ils sont tous bien éduqués et vivent en parfaite harmonie. Ils apprennent à vivre ensemble pour un futur mariage qui se déroulera tout aussi bien. 
+
+## Chapitre 56 
+
+* poème (de rimes plates) constituant une énigme trouvée à Thélème.
+* Il parle de fin du monde noyé sous les eaux, (sens à clarifier)
+* Gargantua interprète ce message comme le commandement divin à suivre tandis que Frère Jean pense que c'est un jeu de paume et qu'après s'être bien dépensé, rien ne vaut un bon repas. Bon appétit.
