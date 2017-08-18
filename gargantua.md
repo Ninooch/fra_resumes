@@ -452,8 +452,18 @@ _ferait un super épisode de Rick et Morty xD_
 ## Chapitre 52 
 
 * Poème gravé sur les portes de l'abbaye. Il dit que tout ceux au coeur vil et malsain n'y seront pas acceuillis. Il dit aussi que les personnes simples et gentilles sont les bienvenues. 
-* C'est une séparation entre le mal et le bien moral pur ( cf. note de bas de page 406).
+* C'est une séparation utopique entre le mal et le bien moral pur ( cf. note de bas de page 406).
 
 ## Chapitre 53
+
+* Description des intérieurs et extérieurs richement décorés et offrants beaucoup de luxe au résident.
+
+## Chapitre 54 
+
+* Description précises des habits que portent les femmes et les hommes à Thélème. Les habits sont faits de tissus précieux, avec des ornements d'or d'argent ou de pierres précieuses. Il y en a pour chaque saison et en divers coloris.
+* Chaque jour, les habitants sont habillés en accord (habits complémentaires pour les hommes en fonction de ceux des femmes)
+* Une production des matériaux nécessaires à la confection des habits a été établie avec des artisants travaillant exclusivement pour les habitants de Thélème.
+
+## Chapitre 55
 
 *
