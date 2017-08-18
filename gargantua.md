@@ -13,7 +13,7 @@ Holoferne | Premier précepteur de Gargantua | Théologien
 Don Philippe des Marais | Ami de Grandgousier | Conseille à Grandgousier de changer le précepteur de son fils.
 Eudémon | Éduqué par Ponocrates | Jeune page
 Ponocrates | 3ème précepteur de Gargantua |
-Gymnaste  | Éduqué par Pronocrates, apprend l'équitation à Gargantua | Écuyer
+Gymnaste  | Éduqué par Ponocrates, apprend l'équitation à Gargantua | Écuyer
 Picrochole |   | Roi de Lerné |
 Gallet | Ambassadeur de Grandgousier |
 Tripet | Capitaine de l'armée de Picrochole |
@@ -314,7 +314,7 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 32 
 
-* Gargantua se met en route avec Pronocrates, Eudémon et Gymnaste pour aller vers son père.
+* Gargantua se met en route avec Ponocrates, Eudémon et Gymnaste pour aller vers son père.
 * Il est un peu peureux car désemparé par la situation. Ponocrates décide d'aller chez un ami, le seigneur de la Vauguyon. 
 * Gymnaste et l'écuyer du seigneur partent pour espionner les alentours. 
 * Gymnaste rencontre Tripet qui le menace. 
@@ -338,7 +338,7 @@ _ferait un super épisode de Rick et Morty xD_
 ## Chapitre 35 
 
 * Gargantua est de retour auprès de son père. Sa mère meurt de joie. ( aucune considération de la part de Rabelais)
-* En se peignant, Gargantua fait tomber les restes des boulets de Vède. Son père croit qu'il a attrapé des poux dans un collège miteux mais Pronocrates le rassure quand à son éducation.
+* En se peignant, Gargantua fait tomber les restes des boulets de Vède. Son père croit qu'il a attrapé des poux dans un collège miteux mais Ponocrates le rassure quand à son éducation.
 * Grandgousier décide de fêter leur retour avec un énorme festin.
 
 
@@ -359,7 +359,7 @@ _ferait un super épisode de Rick et Morty xD_
 ## Chapitre 38
 
 * Frère Jean explique que les moines portent la misère des autres sur leur épaules, c'est pourquoi ils sont rejetés. 
-* Gargantua s'interroge sur le nez visiblement grand du moine. Son père lui dit que c'était la volonté de Dieu. Pronocrates plaisante en disant qu'il était le premier à la foire au nez. Mais Jean explique via une métaphore plus ou moins subtile que c'est grâce à la poitrine moelleuse de sa nourrice. (#ziziii)
+* Gargantua s'interroge sur le nez visiblement grand du moine. Son père lui dit que c'était la volonté de Dieu. Ponocrates plaisante en disant qu'il était le premier à la foire au nez. Mais Jean explique via une métaphore plus ou moins subtile que c'est grâce à la poitrine moelleuse de sa nourrice. (#ziziii)
 
 ## Chapitre 39
 
@@ -421,4 +421,23 @@ _ferait un super épisode de Rick et Morty xD_
 
 * Picrochole dans sa fuite, tue sa monture dans un excès de colère. Il souhaite dérober un vieil âne à des meuniers qui le dépouillent de ses vêtements.
 * Il rencontre une sorcière qui lui dit que son royaume lui sera restitué quand les coquecigrues viendront. 
-* Gargantua pendant ce temps, rassemble ses troupes et 
+* Gargantua pendant ce temps, rassemble ses troupes et le reste de l'armée de Picrochole et leur parle.
+* Ponocrates est blessé durant la bataille.
+
+## Chapitre 48 
+
+* Gargantua, après avoir cité la générosité de ses ancêtres, libère les soldats ennemis, les défraie pour leur efforts à la guerre et les renvoie chez eux avec une escorte.
+* Il souhaite que le descendant de Picrochole reprenne le royaume quand il sera apte et que Ponocrates soit son éducateur et règne en superviseur en attendant.
+* Cependant Gargantua demande Marquet, ses compagnons fouaciers et les gouverneurs de Picrochole qui l'ont encouragé dans sa démarche de guerre. Il fait cette requête car trop de bonté n'empêche pas la guerre d'éclater à nouveau.
+
+## Chapitre 49 
+
+* Quelques gouverneurs s'étaient enfuis et 2 fouaciers avaient péri. Quand au reste de ses prisonnier, Gargantua les mit au travail dans une imprimerie.
+* Il enterra les victimes, soigna les blessés et s'occupa des dommages des villes détruites et leur offrit plus de sécurité.
+* Gargantua remercia ensuite tous les soldats et emmena les plus digne vers son père.
+* Ce dernier prépara un immense festin et leur offrit beaucoup de cadeaux. Il légua aussi des partielles de terre à Ponocrates, Gymnaste, Eudémon etc..
+
+## Chapitre 50 
+
+*
+*
