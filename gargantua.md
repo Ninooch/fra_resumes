@@ -5,7 +5,7 @@
 
 Nom du personnage | Liens avec les autres personnages |Caractéristiques
 ------------------|-----------------------------------|---------------
-Grandgousier | Père de Gargantua | Roi juste et sage
+Grandgousier | Père de Gargantua | Roi juste, sage et généreux
 Gargamelle | Fille du roi des papillons. Mère de Gargantua |
 Gargantua | Fils de Grandgousier et Gargamelle |
 Le seigneur de Painensac | Ami de Grandgousier |
@@ -458,9 +458,9 @@ _ferait un super épisode de Rick et Morty xD_
 
 ## Chapitre 51 
  
-* L'abbaye est construite avec beaucoup de énormément de ressources précieuses. 
+* L'abbaye est construite avec beaucoup et énormément de ressources précieuses. 
 * Le bâtiment est de forme hexagonale avec une tour de 6 étages à chaque angle. Chacune de ces tours porte un nom.
-* Le bâtiment est magnifiquement orné et possède une grande bibliothèque remplies de livres en différentes langues. 
+* Le bâtiment est magnifiquement orné et possède une grande bibliothèque remplie de livres en différentes langues. 
 
 
 ## Chapitre 52 
@@ -491,4 +491,5 @@ _ferait un super épisode de Rick et Morty xD_
 
 * poème (de rimes plates) constituant une énigme trouvée à Thélème.
 * Il parle de fin du monde noyé sous les eaux, (sens à clarifier)
-* Gargantua interprète ce message comme le commandement divin à suivre tandis que Frère Jean pense que c'est un jeu de paume et qu'après s'être bien dépensé, rien ne vaut un bon repas. Bon appétit.
+* Gargantua interprète ce message comme le commandement divin à suivre tandis que Frère Jean pense que c'est là la description du jeu de paume. Il explique toutes les paroles du poème avec des actions du jeu de paume. Bon appétit.
+![Trololo](http://ih1.redbubble.net/image.55172124.2899/fc,550x550,white.u1.jpg)
