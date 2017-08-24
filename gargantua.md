@@ -5,7 +5,7 @@
 
 Nom du personnage | Liens avec les autres personnages |Caractéristiques
 ------------------|-----------------------------------|---------------
-Grandgousier | Père de Gargantua |
+Grandgousier | Père de Gargantua | Roi juste, sage et généreux
 Gargamelle | Fille du roi des papillons. Mère de Gargantua |
 Gargantua | Fils de Grandgousier et Gargamelle |
 Le seigneur de Painensac | Ami de Grandgousier |
@@ -361,26 +361,30 @@ _ferait un super épisode de Rick et Morty xD_
 * Frère Jean explique que les moines portent la misère des autres sur leur épaules, c'est pourquoi ils sont rejetés. 
 * Gargantua s'interroge sur le nez visiblement grand du moine. Son père lui dit que c'était la volonté de Dieu. Ponocrates plaisante en disant qu'il était le premier à la foire au nez. Mais Jean explique via une métaphore plus ou moins subtile que c'est grâce à la poitrine moelleuse de sa nourrice. (#ziziii)
 
+
 ## Chapitre 39
 
 * Gargantua récite un psaume pour s'endormir suite aux conseils de frère Jean.
 * Le landemain, la troupe se réveille tôt. Jean propose de boire contrairement que de tousser.
 * Ils s'arment et partent avec 25 soldats de Grandgousier.
 
+
 ## Chapitre 40 
 
 * Frère Jean encourage la troupe par des propos religieux. Ils vont en direction de la Saulaie.
-* Il coince son heaume dans une branche d'arbre et reste pendu alors que on conval continue d'avancer.
-* Après quelques plaisanteries, Gymnaste va le sauver. Jean reprends les rennes de son cheval qu'Eudèmon avait arrêté dans sa course. 
+* Il coince son heaume dans une branche d'arbre et reste pendu alors que son cheval continue d'avancer.
+* Après quelques plaisanteries, Gymnaste va le sauver. Jean reprends les rennes de son cheval qu'Eudémon avait arrêté dans sa course. 
+
 
 ## Chapitre 41
 
-*  Picrochola a appris la mort de Tripet, ce qui le fâcha encore plus.
+*  Picrochole a appris la mort de Tripet, ce qui le fâcha encore plus.
 * Il envoie une armée énorme en reconnaissance, parée d'eau bénite et d'étoles pour contrer les diables.
 * Gargantua l'apperçoit alors et demande s'il faut attaquer, ce à quoi frère Jean répond un grand "oui que diable".
 * L'armée commence à fuire par peur des diables sauf Tyravant ( le conducteur de cette armée) qui s'acharne en vain sur Jean pour ensuite se faire assommer.
 * Gargantua a un discours noble sur la modération des coups lors d'une bataille. Pendant ce temps Jean tue sans pitié jusqu'au moment où il se fait remarquer puis capturer.
 * Gargantua décide alors d'attendre calmement leurs ennemis.
+
 
 ## Chapitre 42
 
@@ -388,7 +392,8 @@ _ferait un super épisode de Rick et Morty xD_
 * En route, il croise l'armée ennemie qui rebrousse chemin à cause de sa défaite imminente.
 * Il s'arrête pour tuer des fuyants, tant et si bien que son épée se brise en 2.
 * Il récupère une hache, libère les pélèrins capturés et les ramène auprès de Gargantua.
-* Toucquedillon, un gouverneur de Picrochole est retenu prisonnier.
+* Toucquedillon, un gouverneur de Picrochole capturé par frère Jean est retenu prisonnier.
+
 
 ## Chapitre 43
 
@@ -396,12 +401,14 @@ _ferait un super épisode de Rick et Morty xD_
 * Grandgousier interroge les pèlerins. Ces derniers suivaient un voyage pour contrer les maladies associées à certains Saints. Grandgousier trouve cela assurément ridicule et les envoie plutôt prendre soin de leur famille et proches tout en s'instruisant. 
 * Il leur donne des provisions, de l'argent et un cheval à chacun.
 
+
 ## Chapitre 44 
 
 * Grandgousier demande à Toucquedillon ce qui pousse Picrochole a agir ainsi.
 * Il trouve cela irrationnel et souhaite que T. reparte chez son roi pour le conseiller justement.
 * Frère Jean ne demande rien pour rançon et Toucquedillon qui a reçu un cheval, de l'argent et une épée se fait escorter par Gymnaste et une petite armée. 
-* Frère Jean rend l'argent que Grandgousier lui avait offerte. Ce dernier dit qu'une fois la guerre terminée, il récompenserait tous ceux qui lui auront bien servi.
+* Frère Jean rend l'argent que Grandgousier lui avait offert. Ce dernier dit qu'une fois la guerre terminée, il récompenserait tous ceux qui lui auront bien servi.
+
 
 ## Chapitre 45
 
@@ -410,12 +417,14 @@ _ferait un super épisode de Rick et Morty xD_
 * Furieux, Picrochole fait tuer Toucquedillon et jette simplement sa dépouille alors qu'il inhume celle de Hastiveau. 
 * L'armée de Picrochole commence à douter de l'efficacité du roi qui n'en fait qu'à sa tête.
 
+
 ## Chapitre 46 
 
 * Au château de la Roche-Clermault, Gargantua décide sur les conseils de Gymnaste de séparer son armée. Frère Jean en dirige une partie plus loin.
 * Gargantua est informé que la côte gauche est vide. Il déplace son armée discrètement pour bloquer l'issue à Picrochole.
 * Il le rencontre en chemin et se battent. De son côté Frère Jean assaillit un côté du château pour venir ensuite en aide à Gargantua.
 * En entendant le retour de Frère Jean, Picrochole comprend que tout est perdu pour lui et prend la fuite.
+
 
 ## Chapitre 47
 
@@ -424,11 +433,13 @@ _ferait un super épisode de Rick et Morty xD_
 * Gargantua pendant ce temps, rassemble ses troupes et le reste de l'armée de Picrochole et leur parle.
 * Ponocrates est blessé durant la bataille.
 
+
 ## Chapitre 48 
 
 * Gargantua, après avoir cité la générosité de ses ancêtres, libère les soldats ennemis, les défraie pour leur efforts à la guerre et les renvoie chez eux avec une escorte.
 * Il souhaite que le descendant de Picrochole reprenne le royaume quand il sera apte et que Ponocrates soit son éducateur et règne en superviseur en attendant.
 * Cependant Gargantua demande Marquet, ses compagnons fouaciers et les gouverneurs de Picrochole qui l'ont encouragé dans sa démarche de guerre. Il fait cette requête car trop de bonté n'empêche pas la guerre d'éclater à nouveau.
+
 
 ## Chapitre 49 
 
@@ -437,26 +448,31 @@ _ferait un super épisode de Rick et Morty xD_
 * Gargantua remercia ensuite tous les soldats et emmena les plus digne vers son père.
 * Ce dernier prépara un immense festin et leur offrit beaucoup de cadeaux. Il légua aussi des partielles de terre à Ponocrates, Gymnaste, Eudémon etc..
 
+
 ## Chapitre 50 
 
 * Frère Jean refuse les offres de Gargantua et demande de construire un abbaye selon son gré.
 * Gargantua lui offre Thélème pour la construire.
 * Frère Jean décide que les règles qui régiront son abbaye seront contraires à celles habituelles. Ainsi, il n'y aura pas de mur, pas d'horloges et d'appareils de mesure du temps, femmes comme hommes seront les bienvenus, ils pourront rentrer et sortir du couvent quand bon leur semble et les 3 voeux ne seront pas imposés.
 
+
 ## Chapitre 51 
  
-* L'abbaye est construite avec beaucoup de énormément de ressources précieuses. 
+* L'abbaye est construite avec beaucoup et énormément de ressources précieuses. 
 * Le bâtiment est de forme hexagonale avec une tour de 6 étages à chaque angle. Chacune de ces tours porte un nom.
-* Le bâtiment est magnifiquement orné et possède une grande bibliothèque remplies de livres en différentes langues. 
+* Le bâtiment est magnifiquement orné et possède une grande bibliothèque remplie de livres en différentes langues. 
+
 
 ## Chapitre 52 
 
 * Poème gravé sur les portes de l'abbaye. Il dit que tout ceux au coeur vil et malsain n'y seront pas acceuillis. Il dit aussi que les personnes simples et gentilles sont les bienvenues. 
 * C'est une séparation utopique entre le mal et le bien moral pur ( cf. note de bas de page 406).
 
+
 ## Chapitre 53
 
 * Description des intérieurs et extérieurs richement décorés et offrants beaucoup de luxe au résident.
+
 
 ## Chapitre 54 
 
@@ -464,13 +480,16 @@ _ferait un super épisode de Rick et Morty xD_
 * Chaque jour, les habitants sont habillés en accord (habits complémentaires pour les hommes en fonction de ceux des femmes)
 * Une production des matériaux nécessaires à la confection des habits a été établie avec des artisants travaillant exclusivement pour les habitants de Thélème.
 
+
 ## Chapitre 55
 
 * La vie des résidents leur est libre. Ils fixent leur propres horaires et activités.
 * De ce fait, ils sont tous bien éduqués et vivent en parfaite harmonie. Ils apprennent à vivre ensemble pour un futur mariage qui se déroulera tout aussi bien. 
 
+
 ## Chapitre 56 
 
 * poème (de rimes plates) constituant une énigme trouvée à Thélème.
 * Il parle de fin du monde noyé sous les eaux, (sens à clarifier)
-* Gargantua interprète ce message comme le commandement divin à suivre tandis que Frère Jean pense que c'est un jeu de paume et qu'après s'être bien dépensé, rien ne vaut un bon repas. Bon appétit.
+* Gargantua interprète ce message comme le commandement divin à suivre tandis que Frère Jean pense que c'est là la description du jeu de paume. Il explique toutes les paroles du poème avec des actions du jeu de paume. Bon appétit.
+![Trololo](http://ih1.redbubble.net/image.55172124.2899/fc,550x550,white.u1.jpg)
