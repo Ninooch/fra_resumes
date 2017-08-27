@@ -1,6 +1,16 @@
 # Résumé de Phèdre
 ![Phèdre, édition Larousse](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/9/0/1/000851901.jpg)
 
+## Table des matières
+
+* [Personnages](#personnages)
+* [Acte 1](#acte-1)
+* [Acte 2](#acte-2)
+* [Acte 3](#acte-3)
+* [Acte 4](#acte-4)
+* [Acte 5](#acte-5)
+
+
 ## Personnages
 
 Nom du personnage | Liens avec les autres personnages |Caractéristiques
