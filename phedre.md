@@ -40,7 +40,15 @@ Gardes |  |
 
 ## Scène 2
 
+- OEnone vient voir Hippolyte et lui dit que Phèdre est "malade"
+- Hippolyte part
+
+
 ## Scène 3
+
+- Phèdre révèle à OEnone qu'elle aime Hippolyte
+- Elle lui dit que c'est pour cela qu'elle l'a fait fuir
+
 
 ## Scène 4
 
