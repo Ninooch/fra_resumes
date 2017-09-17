@@ -52,19 +52,47 @@ Gardes |  |
 
 ## Scène 4
 
+- Panope apprend à Phèdre que Thésée est mort
+- Elle lui fait par de ses craintes concernant la succession au trône d'Athènes (Hippolyte ou Aricie) 
+
+
 ## Scène 5
+
+- OEnone soutient que Phèdre peut maintenant aimer Hippolyte sans en avoir honte
+- Elle dit également qu'il faut qu'elle et Hippolyte combattent Aricie
+
 
 # Acte 2
 
 ## Scène 1
 
+- Ismène annonce à Aricie qu'Hippolyte est venu la voir
+- Aricie doute de la mort de Thésée
+- Ismène lui raconte que la rumeur dit qu'il est mort emporté par un des fleuves de l'Enfer
+- Aricie dit qu'elle aime Hippolyte (je crois...) 
+
+
 ## Scène 2
+
+- Hippolyte dit qu'il rend le trône d'Athènes à Aricie
+- Elle en est très heureuse 
+- Il finit par lui avouer qu'il l'aime 
+
 
 ## Scène 3
 
+- Théramène annonce que Phèdre veut voir Hippolyte 
+- Aricie accepte le don (le trône d'Athènes) qu'Hippolyte lui fait et elle accepte également son amour
+
 ## Scène 4
 
+- Hippolyte demande à Théramène si tout est prêt pour son départ 
+
 ## Scène 5
+
+- Phèdre annonce à Hippolyte qu'elle l'aime
+- Il n'y croit pas au début
+
 
 ## Scène 6
 
