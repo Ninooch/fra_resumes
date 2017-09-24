@@ -195,14 +195,51 @@ Gardes |  |
 
 ## Scène 1
 
+- Aricie ne comprends pas qu'Hippolyte n'ai pas dit la vérité à son père
+- Hippolyte dit à Aricie de le suivre dans sa  fuite
+- Elle dit qu'elle ne peut pas car ils ne sont pas mariés
+- Il répond qu'ils se marieront
+
+
 ## Scène 2
+
+- Aricie dit à Ismène de se préparer à fuir
+
 
 ## Scène 3
 
+- Aricie dit à Thésée qu'Hippolyte est innocent et que sa mort sera la punition que les Dieux infligeront à Thésée
+- Aricie part
+
+
 ## Scène 4
+
+- Thésée commence à douter du crime d'Hippolyte
+- Il demande qu'on lui apporte OEnone pour éclaircir la situation
+
 
 ## Scène 5
 
+- Panope annonce la mort d'OEnone a Thésée (elle s'est suicidée en se noyant dans la mer)
+- Elle lui dit aussi que Phèdre est très agitée et en mauvaise santé
+- Thésée veut qu'on rappelle Hippolyte pour qu'il vienne s'expliquer
+- Il demande à Neptune de ne pas le tuer
+
+
 ## Scène 6
 
+- Théramène vient raconter la mort d'Hippolyte à Thésée
+- Il fuyait en cheval et d'un coup, un monstre est sorti de la mer (-> envoyé par Neptune)
+- Neptune attaques les chevaux d'Hippolyte avec son trident
+- Hippolyte est retrouvé mourant par Théramène
+- Sa derrnière volonté est que son père ne traite pas trop durement Aricie
+- Aricie arrive et s'évanouit en le voyant
+
+
 ## Scène 7
+
+- Phèdre apprend la vérité à Thésée
+- Elle a pris un poison qui la fera mourir
+- Thésée va pleurer son fils
+
+# Fin
