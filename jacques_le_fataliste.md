@@ -11,7 +11,8 @@ Nom du personnage | Liens avec les autres personnages |Caractéristiques
 
 
 ## Résumé
-### Systématique du résumé : à chaque fois qu'on passe à un nouveau sous-récit, on écrit un résumé de ce qui précède
+### Systématique du résumé : noter de temps en temps des choses pour se souvenir de l'histoire 
+#### jca: = Jacques continue le récit des ses amours 
 
 - Jacques commence à raconter ses amours.
 - Il explique qu'il a combattu dans un bataille et qu'il a reçu une balle dans le genou
@@ -23,3 +24,7 @@ Nom du personnage | Liens avec les autres personnages |Caractéristiques
 - Jacques va enfermer des brigands dans leur chambre parce qu'ils leur avaient fait amené une assiette d'os de poulet
 - ils repartent le lendemain matin, tranquillement
 - Jacques explique l'inutilité de faire des plans et d'être prudent 
+- jca: 3 chirurgiens arrivent à la maisons
+- le maître tombe sur le genou et avoue que la blessure au genou est effectivement une des plus douloureuses
+- jca: il entend les paysans l'ayant recueilli faire l'amour
+- Jacques a oublié sa bourse et le maître sa montre dans l'auberge où ils ont dormi la nuit précédente 
