@@ -28,3 +28,29 @@ Nom du personnage | Liens avec les autres personnages |Caractéristiques
 - le maître tombe sur le genou et avoue que la blessure au genou est effectivement une des plus douloureuses
 - jca: il entend les paysans l'ayant recueilli faire l'amour
 - Jacques a oublié sa bourse et le maître sa montre dans l'auberge où ils ont dormi la nuit précédente 
+- Jacques retourne seul à l'auberge
+- En chemin il croise un marchand qui a la montre de son maître. Jacques la lui reprend et le marchand crie "au voleur"
+- Il retourne chez le magistrat chez lequel il avait dormi (parce que f*ck la logique) et celui-ci demande à  1) son domestique de dire qu'il a vendu la montre au marchand et 2) sa domestique a reçu la bourse contre des "services"
+- jca: le chirurgien le soigne et les hôtes se demandent où est-ce qu'ils peuvent amener Jacques pour pas qu'il reste chez eux
+- Diderot raconte une anecdote (mauvais poète -> Pondychéry -> riche)
+- Jacques raconte l'histoire de son frère, Jean (moine). Celui-ci est mort dans le tremblement de terre de Lisbonne 
+- Un char transportant la dépouille du capitaine de Jacques passe devant J. et son maître 
+- J. en pleure bcp mais son maître le console en lui disant des mots complètement déplacés
+- jca: il demande au chirurgien si celui-ci peut l'héberger
+// jrc = Jacques raconte la vie de son capitaine
+- jrc: histoire de M. Le Pelletier (89)
+- Jacques est encore amené près de gibets par son cheval
+- Le cheval part à une vitesse folle
+- histoire de monsieur Gousse (98)
+// ncg = le narrateur continue le récit de Gousse
+- Jacques (et son cheval) arrivent dans un village. Le cheval décide de passer par une porte basse et Jacques se tappe la tête et tombe
+- Jacques revend son cheval à son ancien propriétaire : le bourreau
+- Le maître affirme que Jacques est un philosophe car il est bon même avec le bourreau 
+- jca: le chirurgien lui demande 13 sous par jour pour le soigner chez lui
+- jca: Jacques va au village et donne 12 francs à une pauvre femme
+- jca: il retourne chez le chirurgien et se fait attaquer sur le chemin
+- ncg : gousse est en prison parce qu'il voulait vivre avec sa jolie servante (histoire compliquée)
+- J. et M. arrivent à une auberge
+- jca: un carosse arrive chez le chirurgien
+- ncg: troisième prisonnier dans la cellule : intendant (histoire du pâtissier...) (124)
+- il fait moche ; J et M décident de rester à l'auberge 
