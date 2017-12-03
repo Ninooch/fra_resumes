@@ -53,4 +53,11 @@ Nom du personnage | Liens avec les autres personnages |Caractéristiques
 - J. et M. arrivent à une auberge
 - jca: un carosse arrive chez le chirurgien
 - ncg: troisième prisonnier dans la cellule : intendant (histoire du pâtissier...) (124)
-- il fait moche ; J et M décident de rester à l'auberge 
+- il fait moche ; J et M décident de rester à l'auberge
+- jca: un valet vient le chercher chez le docteur et lui dit qu'il est invité au château
+- histoire de l'hôte et de son compère qui lui doit de l'argent (130)
+// hcm = l'hôtesse continue le récit du mariage singulier
+- hcm: Marquis est amoureux de Mme de La Pommeraye. Au bout d'un moment il ne l'aime plus. Il le lui révèle et ils s'en trouvent les deux plus heureux. 
+- fable de la Gaine et du Coutelet (144)
+- Jacques raconte qu'il a été élevé par ses grands-parents qui étaient très silencieux. C'est pour ça qu'il est devenu bavard
+- jrc: l'ami de son capitaine recontre un certain M. de Guerchy. Ils jouent ensemble à un jeu d'argent et l'ami du capitaine pense que la personne qui s'occupe du jeu triche. Il lui cloue la main sur la table avec un couteau. Cela lui redonne le goût du combat
