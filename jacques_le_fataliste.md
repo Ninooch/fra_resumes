@@ -61,3 +61,13 @@ Nom du personnage | Liens avec les autres personnages |Caractéristiques
 - fable de la Gaine et du Coutelet (144)
 - Jacques raconte qu'il a été élevé par ses grands-parents qui étaient très silencieux. C'est pour ça qu'il est devenu bavard
 - jrc: l'ami de son capitaine recontre un certain M. de Guerchy. Ils jouent ensemble à un jeu d'argent et l'ami du capitaine pense que la personne qui s'occupe du jeu triche. Il lui cloue la main sur la table avec un couteau. Cela lui redonne le goût du combat
+- histoire de Mme de Pomneraye (~p. 137-183)
+- le narrateur défend Mme de Pommeraye
+- le lendemain, le temps est encore mauvais
+- jca: il est emmené dans le château de M. Desglands. Celui-ci est un ancien ami de son maître
+- jca: Jacques recontre la jolie Denise
+- Desglands était addict aux jeux. Sa femme le quitta 
+- Jacques et son maître se disputent violemment car Jaques se considère supérieur à son maître (p. 194) 
+- l'hôtesse vient les départager
+- Jacques conclut avec des "Stipulons" (p. 198)
+- Jacques et son maître partent de l'auberge dans la même direction que le Marquis des Arcis et son secrétaire
