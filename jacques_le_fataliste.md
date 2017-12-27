@@ -21,7 +21,7 @@ Nom du personnage | Liens avec les autres personnages |Caractéristiques
 	- il est blessé au genou
 	- il demande à sortir de la charrette qui le mène à l'hôpital et est recueilli par une femme de paysan
 - ils s'arrêtent dans une auberge miteuse
-- Jacques va enfermer des brigands dans leur chambre parce qu'ils leur avaient fait amené une assiette d'os de poulet
+- Jacques va enfermer des brigands dans leur chambre parce qu'ils leur avaient fait amener une assiette d'os de poulet
 - ils repartent le lendemain matin, tranquillement
 - Jacques explique l'inutilité de faire des plans et d'être prudent 
 - jca: 3 chirurgiens arrivent à la maisons
