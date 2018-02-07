@@ -7,13 +7,13 @@
 - Étienne : 4 ans, "" "" ""
 - Mme Boche: concierge de la maison dont *le veau à deux têtes* occupait le rez-de-chaussée
 - Adèle et Virginie : soeurs logeant / travaillant (?) au chez Mme Boche
-- Coupeau: ouvrier zingueur, amoureux de Gervaise, surnommé *Cadet-Cassis* par ses amis
+- Coupeau: ouvrier zingueur, amoureux de Gervaise, surnommé *Cadet-Cassis* par ses amis. Ne sait pas écrire.
 
 ## Chapitre I
 - Gervaise est au balcon, elle attend le retour de Lantier, tard le soir
 - Lantier rentre le lendemain. Gervaise l'accuse d'avoir passé la nuit avec Adèle. Ils se disputent
 - Gervaise part laver le linge à la laverie.
-- Elle y rencontre Mme Boche qui lui dit qu'elle a vu Lantier avec Adèle cette nuit. 
+- Elle y rencontre Mme Boche qui lui dit qu'elle a vu Lantier avec Adèle cette nuit.
 - On apprend que Lantier a hérité de 1700
 - Virginie arrive à la laverie.
 - Claude et Étienne arrivent à la laverie. Ils racontent que Lantier est parti.
@@ -32,3 +32,15 @@
 - Coupeau dit qu'il faut que sa soeur (Mme Lorilleux) accepte leur mariage. C'est pourquoi ils vont un soir chez eux. Les Lorilleux travaillent l'or
 - M. Lorilleux accepte d'être le témoin de Gervaise.
 - La noce aura lieu le 29 juillet
+
+## Chapitre III
+- Mariage de Gervaise et Coupeau
+- Les amis et la famille des mariés viennent au mariage
+- Ils se marient d'abord à la mairie puis à l'église
+- Les mariés + les invités vont dîner
+- Il pleut. Monsieur Madinier propose d'aller au musée
+- Ils vont visiter le Louvre
+- Ils se baladent dans Paris
+- Ils montent dans une colonne pour voir Paris
+- Ils soupent puis règlent l'addition (le marchand de vin/aubergiste demande plus que prévu -> dispute)
+- Gervaise et Coupeau vont dormir leur première nuit ensemble
