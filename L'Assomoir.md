@@ -46,8 +46,8 @@
 - Gervaise et Coupeau vont dormir leur première nuit ensemble
 
 ## Chapitre IV
-* p.145-161 : Pierre
-* p.162-178 : Niels
+### p.145-161 : Pierre
+### p.162-178 : Niels
 - Coupeau encourage Gervaise à louer la boutique du petit mercier, rue de la Goutte-d'Or pour qu'elle y établisse une blanchisserie
 - Coupeau propose de l'accompagner voir la boutique pour obtenir une diminution de loyer
 - Ils décident d'y aller le soir, après que Coupeau a finit de travailler (Coupeau, zingueur, était en train de finir le toît d'une maison de 3 étages)
@@ -63,3 +63,11 @@
 - **Coupeau se met à boire**
 - Goujet propose de prêter 500 francs à Gervaise pour qu'elle puisse ouvrir sa blanchisserie; elle accepte; elle devra rembourser 20 francs par mois
 - G. + C. vont louer la boutique
+
+## Chapitre VIII
+### Pablo
+* Lantier se rapproche de plus en plus des Coupeau, au début il s'installe dans la rue de la Goutte d'or.
+* Il partage des repas avec les Coupeau
+* Coupeau lui propose de venir habiter chez eux (en vrai il squat à mort).
+* Lantier prend pension chez les Coupeau, Gervaise doit nourrir deux gaillards, sauf que Lantier ne paie pas et trouves des excuses de marde.
+* C'est la dégringolade pour Gervaise niveau thunes.
