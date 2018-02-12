@@ -44,3 +44,22 @@
 - Ils montent dans une colonne pour voir Paris
 - Ils soupent puis règlent l'addition (le marchand de vin/aubergiste demande plus que prévu -> dispute)
 - Gervaise et Coupeau vont dormir leur première nuit ensemble
+
+## Chapitre IV
+* p.145-161 : Pierre
+* p.162-178 : Niels
+- Coupeau encourage Gervaise à louer la boutique du petit mercier, rue de la Goutte-d'Or pour qu'elle y établisse une blanchisserie
+- Coupeau propose de l'accompagner voir la boutique pour obtenir une diminution de loyer
+- Ils décident d'y aller le soir, après que Coupeau a finit de travailler (Coupeau, zingueur, était en train de finir le toît d'une maison de 3 étages)
+- Gervaise arrive avec Nana; madame Boche était déjà là
+- Une vieille observe Coupeau travailler ( **Elle représente le destin, pourrait être une question du CDL** )
+- **Coupeau se retourne pour regarder Nana et tombe**
+- Il est encore vivant; Gervaise ne veut pas qu'il aille à l'hôpital et veut le ramener à la maison.
+- Coupeau a notemment la jambe droite cassée
+- Goujet commence à aimer Gervaise
+- Coupeau met ~6 mois à se rétablir complètement
+- Coupeau s'énerve contre les riches qui ne veulent pas faire eux-mêmes les métiers difficiles
+- Toutes les économies du ménage sont mangés par le rétablissement de Coupeau
+- **Coupeau se met à boire**
+- Goujet propose de prêter 500 francs à Gervaise pour qu'elle puisse ouvrir sa blanchisserie; elle accepte; elle devra rembourser 20 francs par mois
+- G. + C. vont louer la boutique
