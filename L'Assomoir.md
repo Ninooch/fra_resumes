@@ -71,3 +71,14 @@
 * Coupeau lui propose de venir habiter chez eux (en vrai il squat à mort).
 * Lantier prend pension chez les Coupeau, Gervaise doit nourrir deux gaillards, sauf que Lantier ne paie pas et trouves des excuses de marde.
 * C'est la dégringolade pour Gervaise niveau thunes.
+### Justin 
+- Gervaise raconte les malheurs de Mme Bijard battu par son mari
+- Goujet pense que Gervaise s'est remise avec Lanthier. Gervaise nie
+- Goujet déclare son amour à Gervaise et lui propose de partir. Elle refuse
+- Description de l'amitié entre Coupeau et Lanthier et des repas et des "apéros" qu'ils s offrent
+- Ils rencontrent Bibi-la-Grillade et Mes-Bottes. Ils boivent un coup avant d aller au travail. Ils y restent tout le matin
+- Ils vont ensuite manger avec Bec-Salé
+- Ils font la tournée des bistrots le reste de la journée en parlant de politique, d assassinats
+- Coupeau quitte le groupe et disparaît pendant 2 jours
+- Gervaise et Lanthier vont au café-concert
+- Coupeau est rentré mais a vomi partout. Gervaise ne peut dormir la et va dormir chez Lanthier
