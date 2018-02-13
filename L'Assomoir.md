@@ -63,6 +63,16 @@
 - **Coupeau se met à boire**
 - Goujet propose de prêter 500 francs à Gervaise pour qu'elle puisse ouvrir sa blanchisserie; elle accepte; elle devra rembourser 20 francs par mois
 - G. + C. vont louer la boutique
+## Chapitre V
+## Chapitre VI
+- Gervaise va voir son fils Étienne et Goujet à leur travail (la forge)
+- Gervaise n'arrive plus à rembourser l'argent que Goujet lui avait prêté pour sa blanchisserie 
+- Elle n'arrive même plus à payer son loyer et doit emprunter de plus en plus
+- Gervaise rencontre Virginie, qui paraît avoir oublié leur querelle au lavoir
+- Virginie lui parle de Lantier ce qui ravivent les sentiments et faiblesses de Gervaise 
+- Tout le monde va à la blanchisserie de Gervaise pour avoir chaud
+- Gervaise accueille le père Bru (un des locataires de l'immeuble)
+- Coupeau continue de boire
 
 ## Chapitre VIII
 ### Pablo
