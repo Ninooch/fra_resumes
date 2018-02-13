@@ -65,7 +65,10 @@
 - G. + C. vont louer la boutique
 ## Chapitre V
 ## Chapitre VI
-- Gervaise va voir son fils Étienne et Goujet à leur travail (la forge)
+- Gervaise va voir son fils Étienne et Goujet à leur travail (la forge, ils fabriquent boulons et rivets). ( Dans la rue Marcadet )
+- Goujet est surnommé la Gueule-d'or. Étienne le Zouzou à cause de ses cheveux.
+- Ils rencontrent Bec-Salé, dit Boit-sans-Soif, un ouvrier buveur. Ce dernier connait Coupeau.
+- Goujet et Bec-Salé forgent des boulons avec Fifine et Dédèle, 2 masses de 20 livres. ( détail )
 - Gervaise n'arrive plus à rembourser l'argent que Goujet lui avait prêté pour sa blanchisserie 
 - Elle n'arrive même plus à payer son loyer et doit emprunter de plus en plus
 - Gervaise rencontre Virginie, qui paraît avoir oublié leur querelle au lavoir
@@ -83,12 +86,12 @@
 * C'est la dégringolade pour Gervaise niveau thunes.
 ### Justin 
 - Gervaise raconte les malheurs de Mme Bijard battu par son mari
-- Goujet pense que Gervaise s'est remise avec Lanthier. Gervaise nie
+- Goujet pense que Gervaise s'est remise avec Lantier. Gervaise nie
 - Goujet déclare son amour à Gervaise et lui propose de partir. Elle refuse
-- Description de l'amitié entre Coupeau et Lanthier et des repas et des "apéros" qu'ils s offrent
+- Description de l'amitié entre Coupeau et Lantier et des repas et des "apéros" qu'ils s offrent
 - Ils rencontrent Bibi-la-Grillade et Mes-Bottes. Ils boivent un coup avant d aller au travail. Ils y restent tout le matin
 - Ils vont ensuite manger avec Bec-Salé
 - Ils font la tournée des bistrots le reste de la journée en parlant de politique, d assassinats
 - Coupeau quitte le groupe et disparaît pendant 2 jours
-- Gervaise et Lanthier vont au café-concert
-- Coupeau est rentré mais a vomi partout. Gervaise ne peut dormir la et va dormir chez Lanthier
+- Gervaise et Lantier vont au café-concert
+- Coupeau est rentré mais a vomi partout. Gervaise ne peut dormir la et va dormir chez Lantier
