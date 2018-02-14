@@ -64,6 +64,17 @@
 - Goujet propose de prêter 500 francs à Gervaise pour qu'elle puisse ouvrir sa blanchisserie; elle accepte; elle devra rembourser 20 francs par mois
 - G. + C. vont louer la boutique
 
+### Antoine
+- Gervaise et Nana vont chercher Coupeau au travail
+- Coupeau tombe du toit en voulant répondre à Nana
+- Bilan de la chute: une jambe cassée et des mois de convalescence
+- Gervaise est entêtée et souhaite soigner Coupeau à la maison
+- Les Lorilleux sont toujours aussi désagréables avec Gervaise, malgré l'accident
+- Goujet le forgeron se prend d'affection pour Gervaise en voyant avec quel dévouement elle traite son mari
+- Coupeau est furieux contre le sort
+- Gervaise, après avoir mangé les économies pour soigner Coupeau, se remet à penser à la boutique de la Goutte-d'Or
+- Goujet propose à Gervaise de lui prêter de l'argent. Elle accepte finalement et loue la boutique
+
 ## Chapitre V
 
 ## Chapitre VI
