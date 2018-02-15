@@ -47,6 +47,14 @@
 
 ## Chapitre IV
 ### p.145-161 : Pierre
+-  les Coupeau veulent acheter une maison mais ils ont un fils qui leur coûte trop d’argent.
+-  ce fils est accueilli dans un collège alors ils achètent enfin un appartement
+- l’appartement se situe tout proche du lieu de travail de Gervaise
+-  Gervaise est enceinte et c’est en avril dans ka blanchisserie qu’elle ressent ses premières contractions. Elle peine al rebtrer chez elle et accouche finalement dabs le salon avec l’aide de la sage femme. Son mari arrive la traite de grosse dinde parce qu’elle ne s’assied pas correctement et appelle les deux familles.
+-  les deux familles parlent et ce sont les Lorilleux qui sont élus parrain et marraine.
+-  l’enfant( qui est une fille) va être bâtisé. Les Coupeau font aussi la connaissance de leurs voisins : un fils et une mère veuve( son mari s’est tué). Leurs enfants deviennent potes car le Coupeau fils empêche son  voisin d’être vu sur une barricade.
+- Son voisin est un grand mec carré plutôt timide mais bien organisé et qui bosse dir dans un atelier de forgeron
+
 ### p.162-178 : Niels
 - Coupeau encourage Gervaise à louer la boutique du petit mercier, rue de la Goutte-d'Or pour qu'elle y établisse une blanchisserie
 - Coupeau propose de l'accompagner voir la boutique pour obtenir une diminution de loyer
@@ -111,13 +119,40 @@
 - Gervaise et Lantier vont au café-concert
 - Coupeau est rentré mais a vomi partout. Gervaise ne peut dormir la et va dormir chez Lantier
 
+## Chapitre IX
+### Pavle
+- Maman Coupeau tousse chaque hiver, à cause de son asthme.
+- Elle se plaint tout le temps.
+- Elle a des relations conflictuelles avec la famille, tantôt avec les uns, tantôt avec les autres.
+- Un soir d'hiver, lors de la plus grande crise d'asthme de maman Coupeau, Mme Lorilleux et Mme Lerat lui rendent visite.
+- Elles débattent sur ce que Coupeau à entendu pendant la nuit (baise)
+- Tout la quartier apprend que Gervaise va retrouver Lantier toutes les nuits. => indignation publique
+- Gervaise le vit bien.
+- Coupeau, le mari de Gervaise s'enivre souvent et est sale. Gervaise se réfugie chez Lantier ou le voisin pendant la nuit.
+- Gervaise a une "dette" envers les Goujet. Elle y a rendez-vous.
+- Chez les Goujet, elle se fait réprimander par la mère: elle ne rend pas ce qu'on lui donne à blanchir, ou le rend en mauvais état. (Habits/draps/serviettes...)
+- Le fils Goujet, le forgeron, veut la protéger. Il est très attristé par les aventures nocturnes de Gervaise.
+
+- La boutique de Gervaise se perd de jour en jour. Sa dernière ouvrière est partie. Il ne lui reste plus que son apprentie, Augustine.
+- Sa fainéantise détruit sa boutique, devenu très sale. Gervaise s'en fiche de tout. Dettes, saleté, réputation... rien ne l'inquiète.
+
+- Maman Coupeau et Gervaise boivent (alcool) ensemble souvent.
+- Coupeau, le mari de Gervaise, boit mange et travaille rarement.
+
+- Gervaise a grossi, Lantier et Coupeau en rient. Ils s'entendent bien entre "co-maris". Ils usent Gervaise.
+
+- Elle veut laisser tomber la boutique, préférerait dormir dans la rue que de vivre dans de pareilles conditions.
+
+- En janvier, Maman Coupeau est très mal. Personne ne souhaite vraiment sa mort, mais elle serait perçue comme une délivrance.
+- Une nuit, alors que Nana dort paisiblement aux côtés de maman Coupeau, Gervaise se réveille brusquement. Elle constate que maman Coupeau est morte. Lorsqu'elle annonce la nouvelle à Lantier, il en a rien à cirer.
+
 ## Chapitre X
 ### Mitsuko
 - Les Coupeau déménagent dans un mini studio bien enfoncé dans un immeuble.
 - Gervaise est devenue très grosse, triste et a des flash- back de quand elle était jeune et ambitieuse
 - Coupeau a trouvé un travail et s’y applique, Gervaise est redevenue repasseuse
 - La boutique appartient maintenant à Virginie, qui semble avoir une liaison avec Lantier, mais que tout le monde accepte plus ou moins (pas de grand scandal comme pour Gervaise)
-- Nana fait sa communion, Coupeau pleure et dit que c’est le plus beau jour de a vie
+- Nana fait sa communion, Coupeau pleure et dit que c’est le plus beau jour de sa vie
 - Au super on parle du futur des deux petites filles et on décide que Nana sera fleuriste
 - “deux années s’écoulèrent, pendant lesquelles ils s’enfoncèrent de plus en plus”
 - Gervaise ne va pas au travail régulièrement, l’argent de Coupeau disparait et Nana ne se fait pas encore payer.
@@ -151,3 +186,34 @@
 - le troisième jour qu’elle va le voir il meurt, tout d’abord il s’endort, puis meurt définitivement devant elle
 - depuis ce jour là les choses empirent pour Gervaise, elle mange rien car elle a plus d’argent, elle boit le peux qui lui reste, le propriétaire de son appart la mets dehors (elle va vivre sous la cage d’escaliers)
 - finalement elle meurt de faim et froid, on s’en rend compte que le quelques jours après car on la voit plus
+
+# Chapitre de Sophie (aucune idée duquel c'est)
+- Gervaise décidé d’habiller maman coupeau donc elle se lève s’habille etc et propose à Nana d’aller dormir dans son lit.
+
+- Lantier et Gervaise boivent du vin après avoir habilleur maman coupeau qui pesait lourd
+
+- Coupeau, quand il se réveille le lendemain, pleure comme un gros bébé nul
+
+- Lantier se barre pour aller boire un café alors qu’il a dit qu’il irait faire la déclaration
+
+- Les Lorilleut et Madame Lerat organisent les funérailles et les coûts, etc
+
+- nana chante une comptine en passant sous la fenêtre
+
+- La famille se dispute violenment concernant les coûts de l’enterrement: Madame Lerat ne veut pas payer 30.- pour un beau cercueil
+
+- Les enfants chantent encore la comptine ce qui fait rager Gervaise
+
+- Les voisins passent rendre un hommage ce qui saoule les membres de la famille
+
+- La famille mange ensemble le soir après une visite embarrassante de m marescot
+
+- ils boivent et font la fête entre amis le soir même
+
+- le lendemain, le père bazouge, croque-mort, fait des allusions gênantes à Gervaise
+
+- la cérémonie est pourrie et chiante
+
+- also la fête ensuite, tout le monde est bourré et dit n’imp
+
+- Nana insiste pour aller dormir dans le lit de la vieille morte
